@@ -1,0 +1,13 @@
+SLAID,ContractTier,PriorityID,FirstResponseHours,ResolutionHours,EscalationTriggerHours,EffectiveFrom
+1,Standard,1,2,8,6,2023-01-01
+2,Standard,2,4,24,20,2023-01-01
+3,Standard,3,8,72,60,2023-01-01
+4,Standard,4,24,120,100,2023-01-01
+5,Premium,1,1,4,3,2023-01-01
+6,Premium,2,2,12,10,2023-01-01
+7,Premium,3,4,48,40,2023-01-01
+8,Premium,4,12,96,80,2023-01-01
+9,Enterprise,1,0.5,2,1.5,2023-01-01
+10,Enterprise,2,1,8,6,2023-01-01
+11,Enterprise,3,2,24,20,2023-01-01
+12,Enterprise,4,8,72,60,2023-01-01

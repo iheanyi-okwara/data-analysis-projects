@@ -1,0 +1,5 @@
+PriorityID,PriorityLabel,Description
+1,P1 Critical,"Immediate risk to patient safety, legal/regulatory breach, or complete service outage. Assign within 15 minutes."
+2,P2 High,"Significant financial impact, complaint from client executive, or billing error >£500. Assign within 1 hour."
+3,P3 Standard,Routine service request with defined SLA. Standard queue. Most tickets fall here.
+4,P4 Low,"Informational queries, minor updates, or requests with flexible timelines."

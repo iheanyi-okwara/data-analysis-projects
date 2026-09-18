@@ -1,0 +1,17 @@
+NorthBridge Health Services Ltd,Customer Service Ticket & SLA Optimisation System - Dataset
+,
+Sheet,Row Count
+PriorityLevels,4
+TicketCategories,5
+SLADefinitions,12
+Agents,120
+Clients,80
+Tickets,3500
+TicketAuditLog,17751
+EscalationLog,464
+,
+Date Range (Tickets),1 Jan 2023 – 31 Mar 2025
+Ticket Categories,Appointment Change · Billing Issue · Insurance Query · Complaint · Document Request
+SLA Breach Rate (approx),21.5%
+Escalation Records,464
+Audit Log Entries,17751

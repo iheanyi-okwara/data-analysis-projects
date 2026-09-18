@@ -1,0 +1,121 @@
+AgentID,FullName,TeamID,Role,Specialisms,Hub,DailyCapacity,IsActive
+1,Parveen Szymański,1,Senior Agent,"Document Request,Insurance Query,Appointment Change",Manchester,16,1
+2,Kirsty Morrison,1,Team Lead,"Document Request,Insurance Query,Complaint",Manchester,11,1
+3,Alexander Johnson,1,Senior Agent,"Appointment Change,Billing Issue",Manchester,19,1
+4,Eleanor Patel,1,Agent,"Insurance Query,Complaint",Manchester,19,1
+5,Aisha Szymański,1,Agent,"Insurance Query,Appointment Change,Document Request",Manchester,21,1
+6,Morag Iqbal,1,Agent,"Complaint,Insurance Query",Manchester,20,1
+7,Charlotte Okafor,1,Agent,Appointment Change,Manchester,18,1
+8,Niamh Nguyen,1,Agent,"Insurance Query,Billing Issue,Document Request",Manchester,21,1
+9,Liam Szymański,1,Senior Agent,"Billing Issue,Insurance Query,Appointment Change",Manchester,19,1
+10,Eleanor Iqbal,1,Agent,"Document Request,Complaint",Manchester,27,1
+11,Amelia Clarke,1,Agent,"Complaint,Appointment Change,Document Request",Manchester,20,1
+12,Chloe Fraser,1,Agent,"Document Request,Appointment Change",Manchester,28,1
+13,Amelia Szymański,1,Agent,"Insurance Query,Appointment Change,Document Request",Manchester,25,1
+14,Amit Patel,1,Agent,"Appointment Change,Insurance Query",Manchester,28,1
+15,Edward Kowalczyk,1,Agent,"Billing Issue,Appointment Change,Insurance Query",Manchester,22,1
+16,Duncan Campbell,1,Agent,"Billing Issue,Appointment Change",Manchester,20,1
+17,Jacob Murphy,1,Agent,"Insurance Query,Billing Issue",Manchester,19,1
+18,Alfie Szymański,1,Agent,Complaint,Manchester,19,1
+19,Fiona Kofi,1,Agent,"Complaint,Billing Issue,Document Request",Manchester,20,1
+20,Eva Osei,1,Agent,"Billing Issue,Insurance Query,Document Request",Manchester,26,1
+21,Yasmin Thomas,1,Agent,Billing Issue,Manchester,25,1
+22,Freddie Wilson,1,Agent,"Billing Issue,Document Request,Appointment Change",Manchester,27,1
+23,Thomas Wiśniewski,1,Agent,"Appointment Change,Billing Issue",Manchester,18,1
+24,Patrick Mensah,1,Agent,"Document Request,Complaint,Appointment Change",Manchester,20,1
+25,Arjun Bakare,1,Agent,"Complaint,Insurance Query,Billing Issue",Manchester,19,1
+26,Lucy Anderson,1,Agent,"Appointment Change,Document Request,Billing Issue",Manchester,18,1
+27,Kavya O'Sullivan,1,Agent,"Complaint,Billing Issue,Document Request",Manchester,21,1
+28,Charlie Woźniak,1,Agent,"Document Request,Appointment Change",Manchester,19,1
+29,Arjun Wiśniewski,1,Agent,Billing Issue,Manchester,19,1
+30,Maya Smith,1,Agent,Billing Issue,Manchester,24,1
+31,Lily Ali,1,Operations Manager,"Insurance Query,Complaint,Document Request,Billing Issue",Manchester,6,1
+32,Charlie Nowak,1,Team Lead,"Document Request,Appointment Change,Insurance Query,Billing Issue,Complaint",Manchester,8,1
+33,Aoife Johnson,1,Agent,Appointment Change,Manchester,26,1
+34,Angus O'Brien,1,Senior Agent,"Appointment Change,Billing Issue,Complaint,Document Request",Manchester,14,1
+35,Samuel Malik,1,Senior Agent,"Appointment Change,Complaint,Insurance Query,Billing Issue",Manchester,14,1
+36,Ava Byrne,1,Senior Agent,"Insurance Query,Complaint",Manchester,16,1
+37,Kirsty Martin,1,Agent,Complaint,Manchester,19,1
+38,Alfie O'Brien,1,Agent,"Insurance Query,Billing Issue,Complaint",Manchester,21,1
+39,Alistair Zieliński,1,Agent,"Document Request,Insurance Query",Manchester,20,0
+40,Isla Clarke,1,Team Lead,"Insurance Query,Appointment Change,Complaint,Billing Issue,Document Request",Manchester,14,1
+41,Samuel Kowalczyk,1,Senior Agent,"Insurance Query,Billing Issue",Manchester,18,1
+42,Thomas Davies,1,Agent,Complaint,Manchester,18,0
+43,Ella Mensah,4,Agent,Appointment Change,Leeds,28,1
+44,Priya Mensah,4,Agent,Billing Issue,Leeds,20,0
+45,Isla Fraser,4,Team Lead,"Complaint,Billing Issue,Document Request,Appointment Change",Leeds,13,1
+46,Parveen Reid,4,Agent,Billing Issue,Leeds,25,1
+47,Fatima Okafor,4,Agent,Appointment Change,Leeds,21,1
+48,Bridget Stewart,4,Agent,"Insurance Query,Complaint",Leeds,19,1
+49,George Anderson,4,Agent,"Billing Issue,Insurance Query",Leeds,19,1
+50,Aoife Thompson,4,Agent,"Insurance Query,Complaint,Document Request",Leeds,23,1
+51,Noah Adesanya,4,Agent,Insurance Query,Leeds,27,0
+52,Alfie Stewart,4,Agent,"Billing Issue,Insurance Query,Document Request",Leeds,26,1
+53,Roisín Quinn,4,Agent,Insurance Query,Leeds,28,1
+54,Fatima Diallo,4,Agent,"Insurance Query,Billing Issue",Leeds,23,1
+55,Callum Smith,4,Agent,"Billing Issue,Insurance Query,Document Request",Leeds,24,1
+56,Ananya Osei,4,Agent,"Document Request,Insurance Query",Leeds,21,1
+57,Sophia Doyle,4,Agent,"Complaint,Billing Issue,Insurance Query",Leeds,21,1
+58,Henry Iqbal,4,Agent,"Insurance Query,Appointment Change,Complaint",Leeds,28,1
+59,Patrick Roberts,4,Senior Agent,"Appointment Change,Billing Issue",Leeds,15,1
+60,Liam Robinson,4,Senior Agent,"Billing Issue,Complaint,Document Request,Insurance Query",Leeds,19,1
+61,Declan Bakare,4,Team Lead,"Complaint,Billing Issue,Appointment Change",Leeds,8,0
+62,Isabella Bakare,4,Agent,Complaint,Leeds,21,1
+63,Roisín Kofi,4,Agent,"Insurance Query,Complaint,Document Request",Leeds,26,1
+64,Sunita Walsh,4,Agent,"Billing Issue,Complaint",Leeds,26,1
+65,Daniel O'Sullivan,4,Agent,"Document Request,Complaint",Leeds,28,1
+66,Charlotte Woźniak,4,Senior Agent,"Billing Issue,Insurance Query,Document Request",Leeds,19,1
+67,Lily Chaudhry,4,Agent,Complaint,Leeds,20,1
+68,Dev Wilson,4,Agent,"Document Request,Complaint",Leeds,24,1
+69,Maya Nowak,4,Senior Agent,"Document Request,Appointment Change,Insurance Query",Leeds,17,0
+70,Bridget Woźniak,4,Agent,"Complaint,Document Request",Leeds,23,1
+71,Parveen Campbell,6,Agent,"Insurance Query,Billing Issue",Birmingham,22,1
+72,Patrick Williams,6,Senior Agent,"Complaint,Insurance Query,Appointment Change",Birmingham,17,1
+73,Noah Taylor,6,Agent,"Billing Issue,Appointment Change",Birmingham,18,1
+74,Lily Murphy,6,Agent,Document Request,Birmingham,21,1
+75,Nadia Bakare,6,Agent,Document Request,Birmingham,28,1
+76,Henry Anderson,6,Senior Agent,"Billing Issue,Appointment Change,Complaint",Birmingham,20,1
+77,Zara Roberts,6,Agent,"Complaint,Document Request,Insurance Query",Birmingham,22,1
+78,Angus Davies,6,Team Lead,"Billing Issue,Appointment Change,Insurance Query,Document Request,Complaint",Birmingham,14,1
+79,Lucy Jones,6,Agent,"Insurance Query,Appointment Change,Document Request",Birmingham,24,1
+80,Eleanor Nwosu,6,Agent,Complaint,Birmingham,25,1
+81,Benjamin Szymański,6,Agent,Document Request,Birmingham,24,1
+82,Grace O'Brien,6,Agent,"Document Request,Insurance Query",Birmingham,25,1
+83,Ananya Fraser,6,Agent,"Complaint,Billing Issue",Birmingham,19,1
+84,Nadia Ross,6,Agent,"Billing Issue,Complaint",Birmingham,25,1
+85,Morag Jones,6,Agent,"Document Request,Insurance Query",Birmingham,23,1
+86,Ciarán Murphy,6,Senior Agent,"Billing Issue,Complaint",Birmingham,15,1
+87,Olivia McCarthy,6,Agent,"Complaint,Document Request,Appointment Change",Birmingham,28,1
+88,Patrick Zieliński,6,Senior Agent,"Insurance Query,Document Request",Birmingham,19,1
+89,Benjamin Quinn,6,Agent,"Insurance Query,Complaint",Birmingham,26,1
+90,Bridget Ahmed,6,Agent,"Billing Issue,Insurance Query,Appointment Change",Birmingham,19,1
+91,Emily Ali,6,Agent,"Document Request,Insurance Query",Birmingham,25,1
+92,Bridget Harris,6,Team Lead,"Insurance Query,Appointment Change,Document Request",Birmingham,10,1
+93,Ciarán Anderson,6,Agent,"Insurance Query,Billing Issue,Document Request",Birmingham,18,1
+94,Neha Murray,6,Agent,"Complaint,Document Request",Birmingham,27,1
+95,Alfie Okafor,6,Agent,"Complaint,Appointment Change",Birmingham,18,1
+96,Angus Byrne,6,Agent,"Appointment Change,Billing Issue,Document Request",Birmingham,27,1
+97,Dev Iqbal,6,Agent,Document Request,Birmingham,21,1
+98,Catriona Kofi,6,Agent,"Complaint,Insurance Query",Birmingham,24,1
+99,Freddie Begum,8,Agent,"Insurance Query,Complaint",Edinburgh,21,1
+100,Seamus Iqbal,8,Agent,"Billing Issue,Complaint,Appointment Change",Edinburgh,28,1
+101,Jacob Shah,8,Agent,Appointment Change,Edinburgh,22,1
+102,Ananya Byrne,8,Senior Agent,"Document Request,Insurance Query,Billing Issue,Appointment Change",Edinburgh,18,1
+103,Sophia Davies,8,Agent,"Document Request,Complaint,Billing Issue",Edinburgh,22,1
+104,Sana Williams,8,Agent,"Insurance Query,Appointment Change,Complaint",Edinburgh,23,1
+105,Declan Osei,8,Team Lead,"Document Request,Appointment Change,Complaint,Billing Issue",Edinburgh,13,1
+106,Patrick Reid,8,Agent,"Complaint,Document Request,Appointment Change",Edinburgh,20,1
+107,Arjun Wójcik,8,Agent,"Appointment Change,Billing Issue,Complaint",Edinburgh,23,1
+108,Charlotte Kelly,8,Agent,"Appointment Change,Complaint,Document Request",Edinburgh,24,1
+109,Charlie Ali,8,Agent,"Appointment Change,Complaint,Billing Issue",Edinburgh,24,1
+110,Layla Ryan,8,Agent,"Complaint,Appointment Change",Edinburgh,27,1
+111,Rhona Murphy,8,Senior Agent,"Complaint,Appointment Change,Document Request",Edinburgh,16,1
+112,Yasmin Thompson,8,Agent,"Appointment Change,Complaint,Document Request",Edinburgh,22,1
+113,Alexander Kamiński,8,Agent,"Billing Issue,Complaint,Insurance Query",Edinburgh,19,1
+114,Parveen Robinson,8,Agent,"Complaint,Billing Issue",Edinburgh,24,1
+115,Dev Murray,8,Agent,"Billing Issue,Appointment Change,Document Request",Edinburgh,27,1
+116,Edward Wiśniewski,8,Agent,"Appointment Change,Insurance Query",Edinburgh,26,1
+117,Parveen Campbell,8,Senior Agent,"Complaint,Insurance Query,Billing Issue,Document Request",Edinburgh,17,1
+118,Noah MacDonald,8,Agent,"Complaint,Billing Issue,Document Request",Edinburgh,21,1
+119,Ava Kowalczyk,8,Team Lead,"Complaint,Billing Issue,Document Request,Appointment Change",Edinburgh,13,1
+120,Emily Zieliński,8,Agent,Complaint,Edinburgh,23,1

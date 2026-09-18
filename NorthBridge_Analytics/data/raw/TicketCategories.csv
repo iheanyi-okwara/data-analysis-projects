@@ -1,0 +1,6 @@
+CategoryID,CategoryName,DefaultPriorityID,RequiresSpecialist,Description
+1,Appointment Change,3,0,"Request to reschedule, cancel, or add a patient appointment. Includes urgent and routine bookings."
+2,Billing Issue,2,1,"Disputes, queries, or corrections relating to invoices, charges, or payment records."
+3,Insurance Query,2,1,"Queries about pre-authorisation, claim status, policy coverage, or insurer correspondence."
+4,Complaint,2,0,"Formal or informal patient or client complaint requiring logging, investigation, and response."
+5,Document Request,3,0,"Requests for medical records, letters, referrals, certificates, or administrative documents."
