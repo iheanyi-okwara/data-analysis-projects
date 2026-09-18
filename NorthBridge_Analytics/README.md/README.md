@@ -362,7 +362,7 @@ NorthBridge_Analytics/
 ├── screenshots/
 │
 ├── sql/
-│   └── NorthBridge_Health_Services_SQL_Analysis.sql
+│   └── NorthBridge_Health_Services_SQL_Analysis_Streamlined.sql
 │
 ├── web-app/
 │
