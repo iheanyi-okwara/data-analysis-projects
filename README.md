@@ -92,8 +92,6 @@ dataanalysis/
 
 I’m building this portfolio as part of my journey into data science and analytics.
 
-💼 LinkedIn: www.linkedin.com/in/iheanyi-okwara-90a3842a9
-
-🧑‍💻 GitHub: https://github.com/iheanyi-okwara/data-analysis-projects.git
+💼 LinkedIn: www.linkedin.com/in/iheanyi-okwara-analyst
 
 ✉️ Email: okwaraiheanyi@gmail.com
