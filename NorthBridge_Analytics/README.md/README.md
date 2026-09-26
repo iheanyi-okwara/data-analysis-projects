@@ -231,7 +231,7 @@ DAX measures were used to calculate and validate key business metrics while main
 
 ## Executive Dashboard
 
-![NorthBridge Executive Dashboard](screenshots/executive-dashboard.png)
+![NorthBridge Executive Dashboard](./screenshots/executive-dashboard.png)
 
 The Executive Dashboard provides a management-level overview of ticket demand, SLA performance, backlog and key operational indicators.
 
@@ -239,7 +239,7 @@ The Executive Dashboard provides a management-level overview of ticket demand, S
 
 ## Overview
 
-![NorthBridge Overview](screenshots/Overview.png)
+![NorthBridge Overview](./screenshots/Overview.png)
 
 The Overview page provides a broader view of support-ticket activity and operational performance across the reporting period.
 
@@ -247,7 +247,7 @@ The Overview page provides a broader view of support-ticket activity and operati
 
 ## SLA & Backlog Analysis
 
-![NorthBridge SLA and Backlog Analysis](screenshots/sla-backlog.png)
+![NorthBridge SLA and Backlog Analysis](./screenshots/sla-backlog.png)
 
 The SLA and Backlog dashboard examines SLA breaches, unresolved tickets, overdue workload and backlog ageing.
 
@@ -255,7 +255,7 @@ The SLA and Backlog dashboard examines SLA breaches, unresolved tickets, overdue
 
 ## Agent & Escalation Analysis
 
-![NorthBridge Agent and Escalation Analysis](screenshots/agent-escalation.png)
+![NorthBridge Agent and Escalation Analysis](./screenshots/agent-escalation.png)
 
 This dashboard explores workload distribution, escalation activity and priority-level escalation patterns.
 
@@ -265,7 +265,7 @@ Agent-level calculations use **AssignedAgentID** rather than descriptive agent n
 
 ## Client Analysis
 
-![NorthBridge Client Analysis](screenshots/client-analysis.png)
+![NorthBridge Client Analysis](./screenshots/client-analysis.png)
 
 The Client Analysis dashboard examines ticket demand and operational activity across clients while preserving Client ID as the analytical key.
 
@@ -273,7 +273,7 @@ The Client Analysis dashboard examines ticket demand and operational activity ac
 
 ## Insights & Recommendations
 
-![NorthBridge Insights and Recommendations](screenshots/Insight-recommendations.png)
+![NorthBridge Insights and Recommendations](./screenshots/Insight-recommendations.png)
 
 This dashboard summarises the principal analytical findings and evidence-based areas for management consideration.
 
