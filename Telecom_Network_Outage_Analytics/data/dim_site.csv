@@ -1,0 +1,501 @@
+Site_ID,Site_Name,Site_Type,Region,Technology,Vendor,Customers_Served,Is_Active
+1,Sou0001,Micro Cell,South West,3G,Huawei,474,True
+2,Yor0002,Indoor DAS,Yorkshire and Humber,4G,Ericsson,480,True
+3,Sou0003,Urban Macro,South East,5G,Ericsson,759,True
+4,Sou0004,Urban Macro,South East,4G,Ericsson,751,True
+5,Wes0005,Urban Macro,West Midlands,5G,ZTE,734,True
+6,Sou0006,Urban Macro,South West,4G,Ericsson,794,True
+7,Sou0007,Urban Macro,South East,4G,Ericsson,805,True
+8,Sco0008,Urban Macro,Scotland,5G,Ericsson,736,True
+9,Yor0009,Rural Macro,Yorkshire and Humber,5G,Nokia,472,True
+10,Nor0010,Small Cell,Northern Ireland,5G,Ericsson,523,True
+11,Nor0011,Urban Macro,North West,5G,Ericsson,784,True
+12,Lon0012,Urban Macro,London,5G,Huawei,761,True
+13,Lon0013,Indoor DAS,London,4G,Huawei,519,True
+14,Sou0014,Urban Macro,South West,5G,Ericsson,761,True
+15,Sco0015,Urban Macro,Scotland,4G,Cisco,727,True
+16,Lon0016,Small Cell,London,4G,Huawei,529,True
+17,Yor0017,Rural Macro,Yorkshire and Humber,3G,Cisco,488,True
+18,Sou0018,Small Cell,South West,3G,Ericsson,501,True
+19,Lon0019,Urban Macro,London,2G,Nokia,751,True
+20,Wal0020,Micro Cell,Wales,5G,Nokia,487,True
+21,Wes0021,Rural Macro,West Midlands,5G,Ericsson,536,True
+22,Eas0022,Micro Cell,East of England,5G,Huawei,518,True
+23,Sou0023,Rural Macro,South East,4G,Nokia,464,True
+24,Lon0024,Urban Macro,London,4G,Huawei,727,True
+25,Nor0025,Rural Macro,North West,2G,Ericsson,490,True
+26,Yor0026,Urban Macro,Yorkshire and Humber,4G,Cisco,754,True
+27,Lon0027,Small Cell,London,3G,Huawei,489,True
+28,Yor0028,Small Cell,Yorkshire and Humber,3G,Huawei,462,True
+29,Wes0029,Urban Macro,West Midlands,5G,Huawei,754,True
+30,Lon0030,Indoor DAS,London,5G,Nokia,517,True
+31,Eas0031,Rural Macro,East Midlands,5G,Nokia,484,True
+32,Sou0032,Small Cell,South West,4G,Cisco,500,True
+33,Lon0033,Indoor DAS,London,5G,Ericsson,509,True
+34,Wal0034,Micro Cell,Wales,4G,Ericsson,541,True
+35,Wal0035,Small Cell,Wales,5G,Nokia,527,True
+36,Wes0036,Micro Cell,West Midlands,4G,Huawei,465,False
+37,Lon0037,Urban Macro,London,3G,Huawei,766,True
+38,Sou0038,Indoor DAS,South East,4G,Cisco,537,True
+39,Nor0039,Indoor DAS,North East,4G,Cisco,532,True
+40,Lon0040,Rural Macro,London,5G,Nokia,503,True
+41,Lon0041,Urban Macro,London,4G,Nokia,714,True
+42,Lon0042,Rural Macro,London,5G,Ericsson,502,True
+43,Nor0043,Micro Cell,North West,4G,Nokia,521,True
+44,Lon0044,Urban Macro,London,2G,Cisco,766,True
+45,Lon0045,Urban Macro,London,5G,Huawei,763,True
+46,Nor0046,Rural Macro,North West,4G,Nokia,483,True
+47,Lon0047,Urban Macro,London,5G,Ericsson,783,True
+48,Lon0048,Urban Macro,London,5G,Ericsson,745,True
+49,Eas0049,Urban Macro,East Midlands,4G,Huawei,750,True
+50,Lon0050,Urban Macro,London,4G,Ericsson,757,True
+51,Sou0051,Indoor DAS,South West,4G,Nokia,546,True
+52,Sco0052,Urban Macro,Scotland,5G,Ericsson,765,True
+53,Yor0053,Urban Macro,Yorkshire and Humber,3G,Ericsson,712,True
+54,Yor0054,Indoor DAS,Yorkshire and Humber,3G,Ericsson,476,True
+55,Nor0055,Rural Macro,Northern Ireland,4G,Cisco,489,True
+56,Sou0056,Small Cell,South West,3G,Ericsson,534,True
+57,Sou0057,Small Cell,South East,5G,Ericsson,535,True
+58,Wal0058,Micro Cell,Wales,4G,Huawei,497,True
+59,Eas0059,Small Cell,East Midlands,3G,Cisco,464,True
+60,Wes0060,Rural Macro,West Midlands,2G,Nokia,469,True
+61,Eas0061,Urban Macro,East Midlands,5G,Huawei,700,True
+62,Lon0062,Urban Macro,London,Broadband,Nokia,740,True
+63,Nor0063,Small Cell,Northern Ireland,4G,Ericsson,519,True
+64,Sco0064,Urban Macro,Scotland,4G,Ericsson,748,True
+65,Lon0065,Rural Macro,London,4G,Huawei,560,True
+66,Yor0066,Urban Macro,Yorkshire and Humber,Broadband,Ericsson,835,True
+67,Wes0067,Micro Cell,West Midlands,5G,Huawei,508,True
+68,Eas0068,Rural Macro,East Midlands,2G,Ericsson,532,True
+69,Sou0069,Urban Macro,South East,5G,Nokia,756,True
+70,Nor0070,Indoor DAS,Northern Ireland,4G,Nokia,523,True
+71,Sco0071,Small Cell,Scotland,2G,Huawei,507,True
+72,Yor0072,Urban Macro,Yorkshire and Humber,5G,Nokia,718,True
+73,Wal0073,Small Cell,Wales,3G,Nokia,494,True
+74,Yor0074,Small Cell,Yorkshire and Humber,Broadband,ZTE,503,True
+75,Yor0075,Urban Macro,Yorkshire and Humber,4G,Ericsson,815,True
+76,Eas0076,Indoor DAS,East Midlands,4G,Ericsson,511,True
+77,Eas0077,Small Cell,East of England,4G,Huawei,530,True
+78,Lon0078,Indoor DAS,London,4G,Huawei,480,True
+79,Sou0079,Rural Macro,South East,5G,Nokia,535,True
+80,Nor0080,Rural Macro,North East,4G,Cisco,550,True
+81,Eas0081,Urban Macro,East of England,4G,ZTE,749,True
+82,Sou0082,Urban Macro,South East,5G,Ericsson,718,True
+83,Lon0083,Urban Macro,London,3G,Nokia,763,True
+84,Lon0084,Urban Macro,London,5G,Ericsson,705,True
+85,Lon0085,Urban Macro,London,5G,Huawei,760,True
+86,Sco0086,Urban Macro,Scotland,5G,Cisco,771,True
+87,Sou0087,Urban Macro,South East,4G,Nokia,747,True
+88,Sou0088,Indoor DAS,South East,3G,Nokia,502,True
+89,Wes0089,Urban Macro,West Midlands,5G,Nokia,725,True
+90,Yor0090,Rural Macro,Yorkshire and Humber,4G,Cisco,500,True
+91,Wes0091,Indoor DAS,West Midlands,4G,Ericsson,485,True
+92,Wes0092,Rural Macro,West Midlands,Broadband,Huawei,482,True
+93,Sou0093,Urban Macro,South East,5G,Ericsson,721,True
+94,Wes0094,Rural Macro,West Midlands,Broadband,Ericsson,493,True
+95,Nor0095,Urban Macro,North East,5G,Huawei,801,True
+96,Sou0096,Indoor DAS,South East,5G,Nokia,495,True
+97,Lon0097,Rural Macro,London,5G,Huawei,474,True
+98,Lon0098,Urban Macro,London,5G,Ericsson,777,True
+99,Nor0099,Rural Macro,North West,5G,Nokia,490,True
+100,Wal0100,Urban Macro,Wales,3G,ZTE,722,True
+101,Wes0101,Small Cell,West Midlands,5G,Cisco,479,True
+102,Nor0102,Indoor DAS,North East,4G,Nokia,530,True
+103,Sou0103,Rural Macro,South West,4G,Nokia,517,True
+104,Sco0104,Rural Macro,Scotland,4G,ZTE,508,True
+105,Eas0105,Rural Macro,East Midlands,5G,Cisco,508,True
+106,Nor0106,Urban Macro,North East,5G,Ericsson,770,True
+107,Nor0107,Small Cell,North West,5G,Cisco,468,True
+108,Sou0108,Small Cell,South West,5G,Ericsson,515,True
+109,Nor0109,Rural Macro,North West,5G,Nokia,477,True
+110,Sou0110,Rural Macro,South West,2G,Ericsson,505,True
+111,Lon0111,Small Cell,London,2G,Huawei,513,True
+112,Lon0112,Rural Macro,London,4G,Nokia,540,True
+113,Nor0113,Small Cell,Northern Ireland,5G,ZTE,529,True
+114,Sou0114,Urban Macro,South West,5G,Cisco,742,True
+115,Sou0115,Urban Macro,South East,4G,Nokia,726,True
+116,Lon0116,Urban Macro,London,5G,ZTE,739,True
+117,Lon0117,Rural Macro,London,5G,ZTE,473,True
+118,Nor0118,Rural Macro,Northern Ireland,4G,Ericsson,517,True
+119,Lon0119,Urban Macro,London,5G,Nokia,755,True
+120,Eas0120,Rural Macro,East of England,4G,Nokia,504,True
+121,Yor0121,Micro Cell,Yorkshire and Humber,4G,Ericsson,509,True
+122,Lon0122,Indoor DAS,London,4G,Ericsson,481,True
+123,Lon0123,Urban Macro,London,4G,Ericsson,762,True
+124,Sou0124,Indoor DAS,South East,3G,Cisco,493,True
+125,Sou0125,Small Cell,South East,5G,Ericsson,479,True
+126,Wes0126,Rural Macro,West Midlands,2G,Cisco,490,True
+127,Wes0127,Urban Macro,West Midlands,4G,Nokia,754,True
+128,Wal0128,Small Cell,Wales,5G,Cisco,499,True
+129,Sou0129,Urban Macro,South West,5G,Nokia,761,True
+130,Yor0130,Micro Cell,Yorkshire and Humber,4G,Ericsson,485,True
+131,Lon0131,Rural Macro,London,5G,Huawei,510,True
+132,Lon0132,Urban Macro,London,3G,Cisco,758,True
+133,Lon0133,Small Cell,London,5G,Nokia,501,True
+134,Nor0134,Urban Macro,North West,4G,Ericsson,741,True
+135,Nor0135,Urban Macro,North West,4G,Nokia,763,True
+136,Lon0136,Urban Macro,London,5G,Huawei,689,True
+137,Sou0137,Indoor DAS,South East,5G,Ericsson,515,True
+138,Sou0138,Urban Macro,South West,3G,Cisco,766,True
+139,Sou0139,Urban Macro,South East,3G,Ericsson,812,True
+140,Wes0140,Small Cell,West Midlands,3G,Cisco,510,True
+141,Sou0141,Urban Macro,South East,5G,ZTE,808,True
+142,Sco0142,Urban Macro,Scotland,4G,ZTE,733,True
+143,Wal0143,Rural Macro,Wales,3G,Cisco,488,True
+144,Wes0144,Urban Macro,West Midlands,5G,Ericsson,766,True
+145,Lon0145,Urban Macro,London,5G,Cisco,735,True
+146,Wes0146,Urban Macro,West Midlands,5G,Cisco,752,True
+147,Nor0147,Rural Macro,Northern Ireland,3G,Nokia,499,True
+148,Nor0148,Small Cell,Northern Ireland,4G,Nokia,516,True
+149,Sou0149,Urban Macro,South East,5G,Ericsson,681,False
+150,Sou0150,Rural Macro,South West,4G,Ericsson,550,True
+151,Sou0151,Small Cell,South West,2G,Nokia,507,False
+152,Lon0152,Small Cell,London,4G,Huawei,501,True
+153,Lon0153,Urban Macro,London,4G,Nokia,788,False
+154,Lon0154,Urban Macro,London,4G,Huawei,718,True
+155,Lon0155,Urban Macro,London,4G,Huawei,706,True
+156,Lon0156,Small Cell,London,2G,Cisco,522,True
+157,Lon0157,Urban Macro,London,5G,Ericsson,768,True
+158,Lon0158,Rural Macro,London,5G,Cisco,500,True
+159,Yor0159,Rural Macro,Yorkshire and Humber,4G,Huawei,484,True
+160,Eas0160,Small Cell,East Midlands,3G,Huawei,525,True
+161,Eas0161,Small Cell,East Midlands,5G,Cisco,529,True
+162,Lon0162,Urban Macro,London,4G,Ericsson,778,True
+163,Lon0163,Urban Macro,London,4G,ZTE,760,True
+164,Wes0164,Small Cell,West Midlands,5G,Cisco,503,True
+165,Eas0165,Micro Cell,East Midlands,5G,ZTE,512,True
+166,Nor0166,Urban Macro,North West,4G,Nokia,759,True
+167,Wal0167,Micro Cell,Wales,3G,Ericsson,518,True
+168,Sou0168,Urban Macro,South East,4G,Huawei,746,False
+169,Sou0169,Rural Macro,South West,5G,Cisco,513,True
+170,Eas0170,Indoor DAS,East Midlands,5G,ZTE,474,True
+171,Sou0171,Indoor DAS,South West,4G,Ericsson,533,True
+172,Lon0172,Rural Macro,London,5G,Cisco,498,True
+173,Yor0173,Small Cell,Yorkshire and Humber,3G,Cisco,518,True
+174,Lon0174,Small Cell,London,4G,Cisco,499,True
+175,Nor0175,Rural Macro,North West,5G,Nokia,456,True
+176,Nor0176,Rural Macro,North East,4G,Ericsson,459,True
+177,Wes0177,Urban Macro,West Midlands,4G,Cisco,774,True
+178,Lon0178,Urban Macro,London,Broadband,Ericsson,750,True
+179,Wes0179,Urban Macro,West Midlands,5G,Nokia,705,True
+180,Lon0180,Urban Macro,London,5G,Huawei,765,True
+181,Lon0181,Urban Macro,London,4G,Huawei,689,True
+182,Yor0182,Indoor DAS,Yorkshire and Humber,3G,Nokia,523,True
+183,Wes0183,Small Cell,West Midlands,4G,Huawei,502,True
+184,Lon0184,Urban Macro,London,5G,Cisco,737,True
+185,Eas0185,Rural Macro,East Midlands,4G,Huawei,479,True
+186,Lon0186,Urban Macro,London,5G,Cisco,769,True
+187,Sou0187,Urban Macro,South East,Broadband,Ericsson,785,True
+188,Nor0188,Rural Macro,North West,3G,ZTE,495,True
+189,Sco0189,Urban Macro,Scotland,4G,Huawei,769,True
+190,Sco0190,Urban Macro,Scotland,5G,ZTE,722,True
+191,Sou0191,Small Cell,South East,5G,Nokia,491,True
+192,Sou0192,Micro Cell,South West,5G,Huawei,488,True
+193,Wal0193,Rural Macro,Wales,5G,Ericsson,476,True
+194,Yor0194,Rural Macro,Yorkshire and Humber,5G,Huawei,514,True
+195,Lon0195,Indoor DAS,London,4G,Nokia,526,True
+196,Yor0196,Urban Macro,Yorkshire and Humber,5G,Ericsson,693,True
+197,Lon0197,Urban Macro,London,5G,ZTE,735,True
+198,Lon0198,Micro Cell,London,2G,Ericsson,552,True
+199,Eas0199,Rural Macro,East of England,4G,Huawei,472,True
+200,Nor0200,Urban Macro,North West,4G,ZTE,707,True
+201,Yor0201,Urban Macro,Yorkshire and Humber,4G,Cisco,808,True
+202,Eas0202,Small Cell,East Midlands,4G,Ericsson,542,True
+203,Lon0203,Rural Macro,London,5G,Huawei,467,False
+204,Lon0204,Micro Cell,London,5G,Cisco,520,True
+205,Yor0205,Rural Macro,Yorkshire and Humber,5G,Huawei,522,True
+206,Sou0206,Small Cell,South West,5G,Nokia,491,True
+207,Sou0207,Rural Macro,South West,5G,Nokia,481,True
+208,Eas0208,Indoor DAS,East Midlands,4G,Nokia,528,True
+209,Lon0209,Urban Macro,London,5G,Nokia,756,True
+210,Nor0210,Small Cell,North West,4G,ZTE,534,True
+211,Lon0211,Small Cell,London,5G,Ericsson,499,True
+212,Sou0212,Indoor DAS,South East,4G,Nokia,507,True
+213,Sou0213,Urban Macro,South West,5G,Huawei,722,True
+214,Lon0214,Rural Macro,London,5G,ZTE,499,True
+215,Lon0215,Rural Macro,London,2G,Huawei,523,True
+216,Lon0216,Rural Macro,London,5G,Cisco,534,True
+217,Nor0217,Urban Macro,North East,3G,Nokia,763,True
+218,Eas0218,Rural Macro,East of England,5G,Huawei,528,True
+219,Lon0219,Rural Macro,London,4G,Nokia,481,True
+220,Eas0220,Micro Cell,East of England,5G,Huawei,494,True
+221,Nor0221,Micro Cell,North West,5G,Ericsson,515,True
+222,Lon0222,Urban Macro,London,3G,Ericsson,736,True
+223,Lon0223,Urban Macro,London,5G,Cisco,727,True
+224,Eas0224,Rural Macro,East Midlands,5G,Nokia,511,True
+225,Eas0225,Urban Macro,East of England,4G,ZTE,721,True
+226,Wes0226,Urban Macro,West Midlands,4G,Cisco,738,True
+227,Sco0227,Urban Macro,Scotland,4G,Ericsson,753,True
+228,Eas0228,Urban Macro,East Midlands,3G,Ericsson,779,True
+229,Lon0229,Urban Macro,London,5G,Nokia,705,True
+230,Sou0230,Urban Macro,South East,5G,Huawei,751,True
+231,Nor0231,Small Cell,Northern Ireland,5G,ZTE,469,True
+232,Yor0232,Small Cell,Yorkshire and Humber,3G,Cisco,487,True
+233,Lon0233,Rural Macro,London,5G,ZTE,509,True
+234,Yor0234,Micro Cell,Yorkshire and Humber,4G,Huawei,518,True
+235,Sou0235,Urban Macro,South West,4G,Ericsson,735,True
+236,Lon0236,Rural Macro,London,5G,Huawei,510,True
+237,Nor0237,Rural Macro,North East,5G,ZTE,454,False
+238,Sou0238,Urban Macro,South East,5G,Nokia,709,True
+239,Eas0239,Micro Cell,East of England,3G,Huawei,487,True
+240,Sou0240,Urban Macro,South West,2G,Nokia,723,True
+241,Yor0241,Indoor DAS,Yorkshire and Humber,3G,Ericsson,495,True
+242,Sou0242,Indoor DAS,South East,5G,Nokia,480,True
+243,Wal0243,Small Cell,Wales,Broadband,Nokia,468,True
+244,Yor0244,Urban Macro,Yorkshire and Humber,4G,Ericsson,736,True
+245,Sou0245,Rural Macro,South West,4G,Cisco,532,True
+246,Sou0246,Rural Macro,South East,5G,Ericsson,525,True
+247,Eas0247,Indoor DAS,East of England,4G,Cisco,509,True
+248,Eas0248,Urban Macro,East of England,3G,Nokia,764,True
+249,Nor0249,Urban Macro,North West,5G,Ericsson,738,True
+250,Nor0250,Indoor DAS,North West,5G,Ericsson,466,True
+251,Sou0251,Urban Macro,South East,5G,ZTE,733,True
+252,Sou0252,Urban Macro,South West,5G,Huawei,773,True
+253,Lon0253,Micro Cell,London,4G,Ericsson,505,True
+254,Eas0254,Urban Macro,East Midlands,5G,ZTE,726,True
+255,Sou0255,Indoor DAS,South West,2G,Ericsson,470,True
+256,Eas0256,Urban Macro,East Midlands,3G,Cisco,729,True
+257,Yor0257,Indoor DAS,Yorkshire and Humber,3G,Huawei,476,False
+258,Sco0258,Urban Macro,Scotland,5G,Ericsson,769,True
+259,Eas0259,Small Cell,East of England,3G,Nokia,506,True
+260,Wes0260,Indoor DAS,West Midlands,2G,Huawei,518,True
+261,Lon0261,Urban Macro,London,4G,ZTE,708,True
+262,Lon0262,Rural Macro,London,4G,Huawei,477,True
+263,Wes0263,Urban Macro,West Midlands,3G,Ericsson,770,True
+264,Sou0264,Urban Macro,South East,5G,Nokia,739,True
+265,Yor0265,Rural Macro,Yorkshire and Humber,4G,Nokia,513,True
+266,Sou0266,Indoor DAS,South East,5G,Huawei,499,True
+267,Wes0267,Rural Macro,West Midlands,4G,Huawei,512,True
+268,Yor0268,Rural Macro,Yorkshire and Humber,5G,Ericsson,489,True
+269,Nor0269,Rural Macro,North East,4G,Ericsson,489,True
+270,Lon0270,Rural Macro,London,4G,ZTE,543,True
+271,Eas0271,Small Cell,East Midlands,5G,Nokia,525,True
+272,Wes0272,Urban Macro,West Midlands,4G,Nokia,656,True
+273,Sou0273,Urban Macro,South East,5G,ZTE,730,True
+274,Yor0274,Urban Macro,Yorkshire and Humber,3G,Nokia,749,True
+275,Nor0275,Rural Macro,North West,5G,Huawei,518,True
+276,Lon0276,Indoor DAS,London,4G,ZTE,458,True
+277,Sou0277,Urban Macro,South East,3G,Ericsson,731,True
+278,Nor0278,Urban Macro,North East,4G,Ericsson,716,True
+279,Sou0279,Small Cell,South East,5G,Huawei,544,True
+280,Sou0280,Indoor DAS,South East,Broadband,Ericsson,510,True
+281,Eas0281,Micro Cell,East of England,4G,Nokia,468,True
+282,Sou0282,Small Cell,South East,4G,Nokia,469,True
+283,Lon0283,Indoor DAS,London,5G,Ericsson,497,True
+284,Wal0284,Small Cell,Wales,4G,Nokia,494,True
+285,Lon0285,Urban Macro,London,4G,Nokia,724,True
+286,Sou0286,Indoor DAS,South East,4G,Ericsson,530,True
+287,Sou0287,Urban Macro,South East,Broadband,Cisco,658,True
+288,Sco0288,Rural Macro,Scotland,4G,Ericsson,510,True
+289,Nor0289,Micro Cell,North West,5G,Nokia,486,True
+290,Eas0290,Small Cell,East Midlands,4G,ZTE,502,True
+291,Nor0291,Rural Macro,North East,3G,ZTE,472,True
+292,Yor0292,Indoor DAS,Yorkshire and Humber,5G,Nokia,507,True
+293,Nor0293,Rural Macro,North East,Broadband,Nokia,509,True
+294,Sou0294,Urban Macro,South West,5G,Huawei,752,True
+295,Lon0295,Indoor DAS,London,5G,Cisco,523,True
+296,Sou0296,Urban Macro,South East,3G,Nokia,739,True
+297,Sou0297,Urban Macro,South East,4G,Cisco,709,True
+298,Sou0298,Urban Macro,South East,4G,Huawei,759,True
+299,Eas0299,Micro Cell,East of England,4G,Ericsson,512,True
+300,Lon0300,Urban Macro,London,3G,Ericsson,781,True
+301,Nor0301,Rural Macro,North West,5G,Ericsson,510,True
+302,Nor0302,Small Cell,North West,4G,Ericsson,535,True
+303,Lon0303,Urban Macro,London,5G,Cisco,754,True
+304,Lon0304,Urban Macro,London,5G,Huawei,796,True
+305,Sou0305,Small Cell,South East,4G,Cisco,515,True
+306,Sou0306,Small Cell,South East,5G,Huawei,503,True
+307,Lon0307,Urban Macro,London,5G,Huawei,733,True
+308,Lon0308,Small Cell,London,3G,Huawei,506,True
+309,Lon0309,Urban Macro,London,4G,Ericsson,783,True
+310,Yor0310,Rural Macro,Yorkshire and Humber,5G,Ericsson,536,True
+311,Yor0311,Rural Macro,Yorkshire and Humber,4G,Nokia,488,True
+312,Wes0312,Small Cell,West Midlands,4G,Huawei,508,True
+313,Sou0313,Urban Macro,South East,5G,Nokia,749,True
+314,Wes0314,Indoor DAS,West Midlands,4G,Huawei,459,True
+315,Eas0315,Urban Macro,East of England,5G,Ericsson,749,True
+316,Sou0316,Urban Macro,South East,4G,Ericsson,675,True
+317,Nor0317,Rural Macro,North East,4G,Ericsson,542,True
+318,Eas0318,Urban Macro,East Midlands,5G,Nokia,786,True
+319,Nor0319,Urban Macro,Northern Ireland,5G,Nokia,744,True
+320,Nor0320,Indoor DAS,North West,5G,Cisco,450,True
+321,Wes0321,Indoor DAS,West Midlands,5G,Nokia,497,True
+322,Sou0322,Small Cell,South West,5G,Ericsson,490,True
+323,Eas0323,Rural Macro,East Midlands,4G,Ericsson,509,True
+324,Yor0324,Indoor DAS,Yorkshire and Humber,5G,ZTE,457,True
+325,Lon0325,Urban Macro,London,5G,Nokia,756,True
+326,Wes0326,Rural Macro,West Midlands,4G,Huawei,526,True
+327,Eas0327,Urban Macro,East Midlands,5G,Cisco,746,True
+328,Yor0328,Micro Cell,Yorkshire and Humber,4G,Nokia,505,True
+329,Nor0329,Indoor DAS,North West,5G,Ericsson,495,True
+330,Sou0330,Urban Macro,South East,5G,Huawei,761,True
+331,Sou0331,Rural Macro,South West,4G,Huawei,491,False
+332,Eas0332,Indoor DAS,East of England,5G,Nokia,562,True
+333,Lon0333,Urban Macro,London,5G,Ericsson,771,True
+334,Sco0334,Urban Macro,Scotland,Broadband,Nokia,789,True
+335,Nor0335,Urban Macro,Northern Ireland,Broadband,Nokia,741,True
+336,Lon0336,Rural Macro,London,5G,Cisco,525,True
+337,Sou0337,Urban Macro,South East,5G,Nokia,754,True
+338,Lon0338,Urban Macro,London,4G,Nokia,787,True
+339,Eas0339,Urban Macro,East Midlands,4G,Ericsson,748,True
+340,Wal0340,Micro Cell,Wales,4G,Nokia,529,True
+341,Lon0341,Indoor DAS,London,5G,Cisco,547,True
+342,Wal0342,Rural Macro,Wales,3G,Huawei,492,True
+343,Nor0343,Rural Macro,North West,4G,Nokia,505,False
+344,Sou0344,Small Cell,South West,3G,Huawei,555,True
+345,Yor0345,Rural Macro,Yorkshire and Humber,3G,Cisco,456,True
+346,Eas0346,Indoor DAS,East of England,2G,Ericsson,498,True
+347,Nor0347,Urban Macro,North West,5G,Nokia,777,True
+348,Wal0348,Urban Macro,Wales,Broadband,Huawei,779,True
+349,Nor0349,Small Cell,North West,4G,Ericsson,517,True
+350,Nor0350,Small Cell,North West,4G,Ericsson,499,True
+351,Sou0351,Urban Macro,South West,5G,Ericsson,752,True
+352,Eas0352,Small Cell,East of England,4G,Ericsson,459,True
+353,Lon0353,Urban Macro,London,4G,ZTE,742,True
+354,Eas0354,Urban Macro,East of England,4G,ZTE,758,True
+355,Lon0355,Small Cell,London,5G,Nokia,505,True
+356,Nor0356,Urban Macro,North West,4G,Cisco,776,True
+357,Lon0357,Indoor DAS,London,5G,Nokia,485,True
+358,Lon0358,Indoor DAS,London,5G,Ericsson,501,True
+359,Nor0359,Urban Macro,North West,3G,Ericsson,729,True
+360,Lon0360,Urban Macro,London,5G,Cisco,735,True
+361,Sou0361,Micro Cell,South West,4G,ZTE,464,True
+362,Sou0362,Indoor DAS,South West,4G,Ericsson,475,True
+363,Wal0363,Small Cell,Wales,Broadband,Huawei,486,True
+364,Eas0364,Urban Macro,East Midlands,4G,ZTE,750,True
+365,Lon0365,Urban Macro,London,5G,Ericsson,773,True
+366,Yor0366,Urban Macro,Yorkshire and Humber,4G,Nokia,787,True
+367,Wes0367,Urban Macro,West Midlands,5G,Huawei,770,True
+368,Sou0368,Indoor DAS,South West,5G,Cisco,486,True
+369,Lon0369,Urban Macro,London,5G,Cisco,737,True
+370,Sou0370,Rural Macro,South West,4G,Nokia,506,True
+371,Wal0371,Rural Macro,Wales,4G,Nokia,519,True
+372,Wal0372,Urban Macro,Wales,5G,Cisco,777,True
+373,Lon0373,Urban Macro,London,4G,Nokia,738,True
+374,Sou0374,Rural Macro,South East,Broadband,Cisco,520,True
+375,Sou0375,Rural Macro,South West,5G,Ericsson,483,True
+376,Eas0376,Urban Macro,East of England,Broadband,ZTE,753,True
+377,Sou0377,Urban Macro,South East,5G,Ericsson,760,True
+378,Lon0378,Indoor DAS,London,4G,Nokia,511,True
+379,Sco0379,Urban Macro,Scotland,4G,Cisco,767,True
+380,Lon0380,Rural Macro,London,5G,Ericsson,556,True
+381,Eas0381,Indoor DAS,East of England,5G,Ericsson,522,True
+382,Sou0382,Urban Macro,South West,5G,Nokia,725,True
+383,Wal0383,Small Cell,Wales,3G,Ericsson,558,True
+384,Nor0384,Indoor DAS,Northern Ireland,Broadband,Huawei,484,True
+385,Lon0385,Rural Macro,London,Broadband,Ericsson,501,True
+386,Lon0386,Urban Macro,London,4G,Ericsson,761,True
+387,Wes0387,Small Cell,West Midlands,4G,Ericsson,540,True
+388,Lon0388,Urban Macro,London,4G,Huawei,707,True
+389,Eas0389,Indoor DAS,East of England,5G,Ericsson,493,False
+390,Lon0390,Indoor DAS,London,5G,Nokia,517,True
+391,Wes0391,Rural Macro,West Midlands,3G,Ericsson,504,True
+392,Sou0392,Urban Macro,South East,3G,Ericsson,750,True
+393,Lon0393,Urban Macro,London,3G,Ericsson,812,True
+394,Wes0394,Rural Macro,West Midlands,3G,Ericsson,490,True
+395,Yor0395,Rural Macro,Yorkshire and Humber,3G,Nokia,500,True
+396,Lon0396,Urban Macro,London,3G,Ericsson,700,True
+397,Eas0397,Rural Macro,East of England,3G,Cisco,489,True
+398,Eas0398,Urban Macro,East Midlands,2G,Nokia,732,True
+399,Lon0399,Indoor DAS,London,5G,Nokia,501,True
+400,Lon0400,Urban Macro,London,5G,Ericsson,830,True
+401,Nor0401,Small Cell,North West,5G,Nokia,488,True
+402,Lon0402,Urban Macro,London,3G,Cisco,742,True
+403,Lon0403,Urban Macro,London,4G,Ericsson,774,True
+404,Lon0404,Urban Macro,London,4G,Ericsson,768,True
+405,Eas0405,Rural Macro,East of England,4G,ZTE,524,True
+406,Eas0406,Micro Cell,East of England,4G,Huawei,528,True
+407,Lon0407,Urban Macro,London,5G,ZTE,783,True
+408,Wes0408,Micro Cell,West Midlands,4G,Nokia,475,True
+409,Sou0409,Urban Macro,South West,3G,Ericsson,745,True
+410,Nor0410,Rural Macro,North East,Broadband,Ericsson,500,True
+411,Lon0411,Indoor DAS,London,4G,Nokia,471,True
+412,Sou0412,Urban Macro,South East,3G,Huawei,776,True
+413,Wes0413,Small Cell,West Midlands,2G,Ericsson,511,True
+414,Sou0414,Urban Macro,South East,5G,Huawei,737,True
+415,Lon0415,Indoor DAS,London,5G,Nokia,512,True
+416,Sou0416,Micro Cell,South West,4G,Huawei,509,True
+417,Nor0417,Urban Macro,North West,5G,Ericsson,745,True
+418,Eas0418,Urban Macro,East of England,Broadband,Ericsson,742,True
+419,Sou0419,Rural Macro,South West,4G,Ericsson,479,True
+420,Sou0420,Rural Macro,South East,2G,Huawei,461,True
+421,Sou0421,Urban Macro,South East,4G,Huawei,762,True
+422,Wal0422,Urban Macro,Wales,4G,Huawei,759,True
+423,Wes0423,Small Cell,West Midlands,2G,Ericsson,516,True
+424,Wes0424,Indoor DAS,West Midlands,4G,Nokia,483,True
+425,Sou0425,Small Cell,South West,5G,Huawei,464,True
+426,Sou0426,Urban Macro,South West,4G,Huawei,759,True
+427,Nor0427,Urban Macro,North West,5G,Cisco,770,True
+428,Lon0428,Urban Macro,London,5G,Ericsson,747,True
+429,Eas0429,Urban Macro,East Midlands,Broadband,Cisco,777,True
+430,Wes0430,Urban Macro,West Midlands,4G,Huawei,770,True
+431,Sou0431,Small Cell,South East,4G,Nokia,484,True
+432,Eas0432,Small Cell,East Midlands,4G,Huawei,483,True
+433,Sou0433,Indoor DAS,South West,2G,Ericsson,524,True
+434,Lon0434,Urban Macro,London,5G,Ericsson,749,True
+435,Nor0435,Rural Macro,North West,4G,Ericsson,475,True
+436,Lon0436,Rural Macro,London,3G,Cisco,512,True
+437,Sou0437,Urban Macro,South East,4G,Nokia,739,True
+438,Nor0438,Rural Macro,North East,2G,ZTE,489,True
+439,Sco0439,Small Cell,Scotland,5G,Nokia,503,True
+440,Yor0440,Indoor DAS,Yorkshire and Humber,3G,Cisco,517,True
+441,Lon0441,Rural Macro,London,5G,Huawei,481,True
+442,Lon0442,Indoor DAS,London,4G,Nokia,475,True
+443,Lon0443,Small Cell,London,5G,Nokia,467,True
+444,Wes0444,Urban Macro,West Midlands,5G,Nokia,727,True
+445,Wes0445,Rural Macro,West Midlands,4G,Nokia,503,True
+446,Lon0446,Urban Macro,London,5G,Cisco,760,True
+447,Wes0447,Urban Macro,West Midlands,5G,Ericsson,766,True
+448,Yor0448,Urban Macro,Yorkshire and Humber,4G,Nokia,699,True
+449,Eas0449,Indoor DAS,East Midlands,5G,Ericsson,515,True
+450,Nor0450,Small Cell,North East,4G,Nokia,521,True
+451,Yor0451,Small Cell,Yorkshire and Humber,4G,Ericsson,493,True
+452,Lon0452,Urban Macro,London,3G,Nokia,753,True
+453,Eas0453,Urban Macro,East Midlands,4G,Cisco,745,True
+454,Sou0454,Urban Macro,South East,5G,Nokia,699,True
+455,Nor0455,Indoor DAS,North West,4G,Ericsson,480,True
+456,Lon0456,Indoor DAS,London,4G,Nokia,457,True
+457,Nor0457,Small Cell,North East,3G,Nokia,472,True
+458,Nor0458,Urban Macro,North West,5G,Cisco,771,True
+459,Wes0459,Indoor DAS,West Midlands,2G,Huawei,509,True
+460,Nor0460,Urban Macro,North West,5G,Nokia,728,True
+461,Sco0461,Rural Macro,Scotland,5G,Ericsson,513,True
+462,Eas0462,Small Cell,East Midlands,5G,Huawei,484,True
+463,Sou0463,Urban Macro,South East,5G,Huawei,726,True
+464,Eas0464,Small Cell,East Midlands,3G,Cisco,477,True
+465,Sou0465,Urban Macro,South East,5G,Ericsson,728,True
+466,Eas0466,Rural Macro,East Midlands,2G,Cisco,488,False
+467,Yor0467,Small Cell,Yorkshire and Humber,5G,Huawei,457,False
+468,Sou0468,Indoor DAS,South East,4G,Cisco,442,True
+469,Lon0469,Urban Macro,London,4G,Huawei,735,True
+470,Lon0470,Indoor DAS,London,4G,Cisco,508,True
+471,Yor0471,Rural Macro,Yorkshire and Humber,4G,ZTE,518,True
+472,Sou0472,Urban Macro,South West,4G,ZTE,800,True
+473,Lon0473,Micro Cell,London,Broadband,Huawei,522,True
+474,Lon0474,Urban Macro,London,4G,Huawei,740,True
+475,Eas0475,Indoor DAS,East of England,4G,Huawei,485,True
+476,Wes0476,Urban Macro,West Midlands,4G,Nokia,763,True
+477,Lon0477,Indoor DAS,London,4G,Huawei,525,True
+478,Wes0478,Rural Macro,West Midlands,4G,Ericsson,505,True
+479,Wes0479,Rural Macro,West Midlands,4G,Ericsson,463,True
+480,Yor0480,Indoor DAS,Yorkshire and Humber,5G,Cisco,531,True
+481,Sou0481,Indoor DAS,South East,Broadband,Ericsson,533,True
+482,Eas0482,Small Cell,East of England,5G,Nokia,523,True
+483,Lon0483,Urban Macro,London,5G,Ericsson,727,True
+484,Lon0484,Urban Macro,London,5G,ZTE,745,True
+485,Sou0485,Urban Macro,South East,5G,Ericsson,730,True
+486,Lon0486,Urban Macro,London,4G,Ericsson,737,True
+487,Lon0487,Urban Macro,London,5G,Huawei,776,True
+488,Eas0488,Urban Macro,East of England,4G,Ericsson,749,True
+489,Sou0489,Indoor DAS,South East,5G,Nokia,497,True
+490,Eas0490,Small Cell,East Midlands,3G,Nokia,502,False
+491,Yor0491,Rural Macro,Yorkshire and Humber,5G,Nokia,516,True
+492,Yor0492,Rural Macro,Yorkshire and Humber,3G,Nokia,489,True
+493,Lon0493,Urban Macro,London,2G,Ericsson,755,True
+494,Eas0494,Urban Macro,East Midlands,4G,Nokia,763,True
+495,Lon0495,Urban Macro,London,5G,Ericsson,779,True
+496,Wal0496,Rural Macro,Wales,5G,Nokia,521,True
+497,Wes0497,Small Cell,West Midlands,3G,Ericsson,511,True
+498,Yor0498,Urban Macro,Yorkshire and Humber,5G,Ericsson,786,True
+499,Nor0499,Urban Macro,North West,5G,Nokia,707,True
+500,Lon0500,Urban Macro,London,5G,Ericsson,794,True

@@ -1,0 +1,10 @@
+Root_Cause_ID,Root_Cause_Category,Root_Cause_Description,Responsible_Team
+1,Power Failure,Power supply failure or grid outage affecting site operations,Facilities
+2,Hardware Failure,Physical hardware component failure or degradation,Network Engineering
+3,Software Failure,"Software bug, configuration error, or system crash",Network Operations
+4,Fibre Cut,Physical fibre optic cable damage or cut,Field Operations
+5,Transmission Issue,Transmission link failure or degradation,Transmission Engineering
+6,Weather Related,Weather conditions causing service disruption,Emergency Response
+7,Vendor Related,Vendor-specific equipment or service failure,Vendor Management
+8,Human Error,Human operational error or misconfiguration,Network Operations
+9,Planned Maintenance,Scheduled maintenance activity causing planned downtime,Network Planning

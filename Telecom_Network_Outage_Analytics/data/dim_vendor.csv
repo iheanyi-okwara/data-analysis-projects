@@ -1,0 +1,6 @@
+Vendor_ID,Vendor_Name,Vendor_Type,Reliability_Score,Failure_Rate,Contract_Status
+1,Ericsson,Infrastructure Provider,0.92,0.07514507857714256,Active
+2,Nokia,Infrastructure Provider,0.9,0.1045768658605355,Active
+3,Huawei,Infrastructure Provider,0.88,0.11368502572179094,Active
+4,Cisco,Infrastructure Provider,0.85,0.17082506667312675,Active
+5,ZTE,Infrastructure Provider,0.82,0.18254262852157438,Active
