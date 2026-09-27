@@ -227,18 +227,20 @@ An end-to-end manufacturing analytics project focused on identifying the operati
 
 The analysis combines **SQL, Power BI and operational production data** to transform raw manufacturing records into actionable insights for improving production efficiency and reducing downtime.
 
-### Key Results
+### Key Performance Indicators
 
-- **645** production batches analysed
-- **363** delayed batches
-- **56.3%** delayed-batch rate
-- **885** downtime events
-- **13** distinct downtime factors
-- **21.74 days** of total production time lost
-- **70.14%** of downtime duration was associated with non-operator-related causes
-- **29.86%** was associated with operator-related causes
-- **51** production days involved multiple batches per operator
-- **109** batches occurred within the multiple-batch scheduling context
+| KPI | Result |
+|---|---:|
+| Production Batches Analysed | 645 |
+| Delayed Batches | 363 |
+| Delayed-Batch Rate | 56.3% |
+| Downtime Events | 885 |
+| Distinct Downtime Factors | 13 |
+| Total Production Time Lost | 21.74 days |
+| Non-Operator-Related Downtime | 70.14% |
+| Operator-Related Downtime | 29.86% |
+| Multiple-Batch Production Days | 51 |
+| Batches in Multiple-Batch Scheduling Context | 109 |
 
 The scheduling analysis also showed that multiple-batch operator-days had a **47.71% delayed-batch rate**, compared with **58.02% for single-batch operator-days**. This indicates that multiple-batch scheduling should be treated as operational context rather than assumed to be a direct cause of production delays.
 
