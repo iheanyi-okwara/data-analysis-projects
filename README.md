@@ -217,6 +217,41 @@ The analysis identifies opportunities to improve:
 
 ---
 
+## 4. GreenTech Manufacturing — Production Downtime Analytics
+
+![GreenTech Production Downtime Dashboard](GreenTech_Production_Downtime_Analytics/screenshots/01_Downtime_Factor_Overview.png)
+
+### Project Overview
+
+An end-to-end manufacturing analytics project focused on identifying the operational factors contributing to production downtime, quantifying time lost, analysing root causes, and evaluating operator scheduling patterns.
+
+The analysis combines **SQL, Power BI and operational production data** to transform raw manufacturing records into actionable insights for improving production efficiency and reducing downtime.
+
+### Key Results
+
+- **645** production batches analysed
+- **363** delayed batches
+- **56.3%** delayed-batch rate
+- **885** downtime events
+- **13** distinct downtime factors
+- **21.74 days** of total production time lost
+- **70.14%** of downtime duration was associated with non-operator-related causes
+- **29.86%** was associated with operator-related causes
+- **51** production days involved multiple batches per operator
+- **109** batches occurred within the multiple-batch scheduling context
+
+The scheduling analysis also showed that multiple-batch operator-days had a **47.71% delayed-batch rate**, compared with **58.02% for single-batch operator-days**. This indicates that multiple-batch scheduling should be treated as operational context rather than assumed to be a direct cause of production delays.
+
+### Tools & Technologies
+
+**SQL Server | Power BI | DAX | Power Query | Data Modelling | Data Visualisation | Root Cause Analysis**
+
+### Explore the Full Project
+
+➡️ [View GreenTech Production Downtime Analytics](GreenTech_Production_Downtime_Analytics/)
+
+---
+
 # 🐍 Additional Analytics Work
 
 ## Data Analysis with Python
