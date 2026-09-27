@@ -60,7 +60,7 @@ The analysis was designed to answer several key business questions:
 
 ## 🔧 Root Cause Analysis
 
-![Root Cause Analysis](screenshots/02_Root_Cause_Analysis.png)
+![Root Cause Analysis](screenshots/02_Root_cause_Analysis.png)
 
 **Hardware Failure** emerged as the most significant network reliability issue across multiple performance measures.
 
