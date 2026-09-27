@@ -366,7 +366,7 @@ data-analysis-projects/
 
 This portfolio demonstrates my progression through increasingly comprehensive end-to-end analytics projects across different business domains.
 
-The three flagship case studies are presented in the following sequence:
+The four flagship case studies are presented in the following sequence:
 
 **1. Horizon Health Network — Bed Demand & Workforce Analytics**  
 **2. NorthBridge Health Services — Ticket & SLA Optimisation**  
