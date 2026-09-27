@@ -371,6 +371,7 @@ The three flagship case studies are presented in the following sequence:
 **1. Horizon Health Network — Bed Demand & Workforce Analytics**  
 **2. NorthBridge Health Services — Ticket & SLA Optimisation**  
 **3. Telecom Network Outage & Reliability Analytics**
+**4. GreenTech Manufacturing — Production Downtime Analytics**
 
 Together, they demonstrate my ability to work across the complete analytics lifecycle:
 
