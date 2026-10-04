@@ -215,11 +215,12 @@ The analysis identifies opportunities to improve:
 
 ➡️ [View Full Telecom Network Outage Analytics Project](Telecom_Network_Outage_Analytics/README.md)
 
-## 🌐 Live Interactive Case Study
+### 🌐 Live Interactive Case Study
 
 Explore the complete Telecom Network Outage & Reliability Analytics case study, including the Power BI dashboard suite, analytical insights, recommendations, and technical approach:
 
-➡️ **[View Live Portfolio](https://telecom-network-outage.bolt.host)**
+➡️ [View Live Telecom Network Outage Analytics Case Study](https://telecom-network-outage.bolt.host)
+
 ---
 
 ## 4. GreenTech Manufacturing — Production Downtime Analytics
