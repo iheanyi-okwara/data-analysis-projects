@@ -46,7 +46,7 @@ GreenTech required an analytical approach capable of answering questions such as
 | Delay Rate | **56.3%** |
 | Downtime Events | **885** |
 | Distinct Downtime Factors | **13** |
-| Total Production Days Lost | **21.74 days** |
+| Total Production Time Lost | **21.74 days** |
 | Maximum Downtime Events per Batch | **4** |
 
 More than half of the production batches experienced at least one recorded downtime factor during the analysis period.
