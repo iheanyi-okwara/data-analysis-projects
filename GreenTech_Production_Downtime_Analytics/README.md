@@ -1,5 +1,10 @@
 # 🌱 GreenTech Manufacturing — Production Downtime Analytics
 
+### 🌐 Live Interactive Case Study
+
+[View the GreenTech Production Downtime Analytics Live Case Study](https://greentech-production-downtime.bolt.host)
+
+---
 ## 📌 Project Overview
 
 This project analyses manufacturing production downtime at **GreenTech Manufacturing** to identify operational bottlenecks, quantify production time lost, investigate recurring downtime factors, and examine how products, operators, and scheduling patterns relate to production delays.
