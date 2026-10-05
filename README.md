@@ -92,7 +92,7 @@ The analysis provides decision support for:
 
 ### Live Interactive Case Study
 
-➡️ [View Horizon Health Network Case Study](https://healthcare-bed-demand.bolt.host)
+🌐 [View Horizon Health Network Case Study](https://healthcare-bed-demand.bolt.host)
 
 ---
 
@@ -157,7 +157,7 @@ The analysis identifies opportunities to improve:
 
 ### Live Interactive Case Study
 
-➡️ [View NorthBridge Health Services Case Study](https://northbridge-health-analytics.bolt.host)
+🌐 [View NorthBridge Health Services Case Study](https://northbridge-health-analytics.bolt.host)
 
 ---
 
@@ -215,11 +215,11 @@ The analysis identifies opportunities to improve:
 
 ➡️ [View Full Telecom Network Outage Analytics Project](Telecom_Network_Outage_Analytics/README.md)
 
-### 🌐 Live Interactive Case Study
+### Live Interactive Case Study
 
 Explore the complete Telecom Network Outage & Reliability Analytics case study, including the Power BI dashboard suite, analytical insights, recommendations, and technical approach:
 
-➡️ [View Live Telecom Network Outage Analytics Case Study](https://telecom-network-outage.bolt.host)
+🌐 [View Live Telecom Network Outage Analytics Case Study](https://telecom-network-outage.bolt.host)
 
 ---
 
