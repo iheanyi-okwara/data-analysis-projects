@@ -72,7 +72,7 @@ This page provides an overview of downtime frequency across products, root cause
 - **56.3%** delay rate
 - **885** downtime events
 - **13** distinct downtime factors
-- **21.74** production days lost
+- **21.74** production time lost
 
 ### Key Analysis
 
