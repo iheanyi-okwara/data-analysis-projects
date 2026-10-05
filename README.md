@@ -258,6 +258,10 @@ The scheduling analysis also showed that multiple-batch operator-days had a **47
 
 ➡️ [View GreenTech Production Downtime Analytics](GreenTech_Production_Downtime_Analytics/)
 
+### Live Interactive Case Study
+
+🌐 [View GreenTech Production Downtime Analytics Case Study](https://greentech-production-downtime.bolt.host)
+
 ---
 
 # 🐍 Additional Analytics Work
