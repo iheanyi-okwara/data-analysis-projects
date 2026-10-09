@@ -1,0 +1,762 @@
+Content_ID,Title,Genre,Release_Year,Duration (minutes)
+C0001,The Social Network,Drama,2010,120
+C0002,A Beautiful Mind,Drama,2001,135
+C0003,The King's Speech,Drama,2010,118
+C0004,Moonlight,Drama,2016,111
+C0005,Manchester by the Sea,Drama,2016,137
+C0006,The Shawshank Redemption,Drama,1994,142
+C0007,Parasite,Drama,2019,132
+C0008,Nomadland,Drama,2020,107
+C0009,Whiplash,Drama,2014,106
+C0010,Spotlight,Drama,2015,128
+C0011,The Revenant,Drama,2015,156
+C0012,La La Land,Drama,2016,128
+C0013,The Father,Drama,2020,97
+C0014,Minari,Drama,2020,115
+C0015,Promising Young Woman,Drama,2020,113
+C0016,The Power of the Dog,Drama,2021,126
+C0017,Belfast,Drama,2021,98
+C0018,CODA,Drama,2021,111
+C0019,The Lost Daughter,Drama,2021,121
+C0020,Drive My Car,Drama,2021,179
+C0021,The Fabelmans,Drama,2022,151
+C0022,Tar,Drama,2022,158
+C0023,Women Talking,Drama,2022,104
+C0024,Aftersun,Drama,2022,101
+C0025,The Banshees of Inisherin,Drama,2022,114
+C0026,Past Lives,Drama,2023,106
+C0027,The Zone of Interest,Drama,2023,105
+C0028,Anatomy of a Fall,Drama,2023,152
+C0029,Oppenheimer,Drama,2023,180
+C0030,Killers of the Flower Moon,Drama,2023,206
+C0031,American Fiction,Drama,2023,117
+C0032,The Holdovers,Drama,2023,133
+C0033,Poor Things,Drama,2023,141
+C0034,All of Us Strangers,Drama,2023,105
+C0035,The Iron Claw,Drama,2023,132
+C0036,One Life,Drama,2023,109
+C0037,The Color Purple,Drama,2023,140
+C0038,Origin,Drama,2023,135
+C0039,Ferrari,Drama,2023,130
+C0040,The Boy and the Heron,Drama,2023,124
+C0041,Priscilla,Drama,2023,113
+C0042,Maestro,Drama,2023,129
+C0043,Nyad,Drama,2023,121
+C0044,Rustin,Drama,2023,106
+C0045,Saltburn,Drama,2023,131
+C0046,May December,Drama,2023,117
+C0047,The Killer,Drama,2023,118
+C0048,Flamin' Hot,Drama,2023,99
+C0049,A Thousand and One,Drama,2023,117
+C0050,BlackBerry,Drama,2023,119
+C0051,Air,Drama,2023,112
+C0052,The Eight Mountains,Drama,2022,147
+C0053,Close,Drama,2022,105
+C0054,EO,Drama,2022,88
+C0055,Triangle of Sadness,Drama,2022,147
+C0056,Decision to Leave,Drama,2022,138
+C0057,All Quiet on the Western Front,Drama,2022,148
+C0058,The Quiet Girl,Drama,2022,94
+C0059,"Argentina, 1985",Drama,2022,140
+C0060,Corsage,Drama,2022,113
+C0061,Holy Spider,Drama,2022,118
+C0062,The Worst Person in the World,Drama,2021,128
+C0063,Flee,Drama,2021,89
+C0064,The Hand of God,Drama,2021,130
+C0065,Parallel Mothers,Drama,2021,123
+C0066,The Eyes of Tammy Faye,Drama,2021,126
+C0067,King Richard,Drama,2021,144
+C0068,Nightmare Alley,Drama,2021,150
+C0069,Spencer,Drama,2021,117
+C0070,The Last Duel,Drama,2021,152
+C0071,The Tragedy of Macbeth,Drama,2021,105
+C0072,Cyrano,Drama,2021,123
+C0073,The Card Counter,Drama,2021,111
+C0074,The Green Knight,Drama,2021,130
+C0075,West Side Story,Drama,2021,156
+C0076,Don't Look Up,Drama,2021,138
+C0077,The Suicide Squad,Action,2021,132
+C0078,No Time to Die,Action,2021,163
+C0079,Shang-Chi and the Legend of the Ten Rings,Action,2021,132
+C0080,Black Widow,Action,2021,134
+C0081,Eternals,Action,2021,156
+C0082,The Batman,Action,2022,176
+C0083,Top Gun: Maverick,Action,2022,130
+C0084,Bullet Train,Action,2022,126
+C0085,The Gray Man,Action,2022,129
+C0086,Uncharted,Action,2022,116
+C0087,Black Adam,Action,2022,125
+C0088,Jurassic World Dominion,Action,2022,147
+C0089,Thor: Love and Thunder,Action,2022,119
+C0090,Doctor Strange in the Multiverse of Madness,Action,2022,126
+C0091,Avatar: The Way of Water,Action,2022,192
+C0092,Everything Everywhere All at Once,Action,2022,139
+C0093,John Wick: Chapter 4,Action,2023,169
+C0094,Mission: Impossible - Dead Reckoning Part One,Action,2023,163
+C0095,Guardians of the Galaxy Vol. 3,Action,2023,150
+C0096,Ant-Man and the Wasp: Quantumania,Action,2023,124
+C0097,Fast X,Action,2023,141
+C0098,The Flash,Action,2023,144
+C0099,Indiana Jones and the Dial of Destiny,Action,2023,154
+C0100,Blue Beetle,Action,2023,127
+C0101,Shazam! Fury of the Gods,Action,2023,130
+C0102,Dungeons & Dragons: Honor Among Thieves,Action,2023,134
+C0103,Transformers: Rise of the Beasts,Action,2023,127
+C0104,The Hunger Games: The Ballad of Songbirds & Snakes,Action,2023,157
+C0105,Meg 2: The Trench,Action,2023,116
+C0106,The Equalizer 3,Action,2023,109
+C0107,Expend4bles,Action,2023,103
+C0108,Gran Turismo,Action,2023,135
+C0109,The Creator,Action,2023,133
+C0110,Heart of Stone,Action,2023,122
+C0111,Extraction 2,Action,2023,122
+C0112,Plane,Action,2023,107
+C0113,Kandahar,Action,2023,120
+C0114,Sisu,Action,2022,91
+C0115,The Woman King,Action,2022,135
+C0116,Superbad,Comedy,2007,113
+C0117,Bridesmaids,Comedy,2011,125
+C0118,The Grand Budapest Hotel,Comedy,2014,99
+C0119,Mean Girls,Comedy,2004,97
+C0120,Step Brothers,Comedy,2008,98
+C0121,Borat,Comedy,2006,84
+C0122,The Hangover,Comedy,2009,100
+C0123,Crazy Rich Asians,Comedy,2018,120
+C0124,21 Jump Street,Comedy,2012,109
+C0125,Game Night,Comedy,2018,100
+C0126,Palm Springs,Comedy,2020,90
+C0127,Booksmart,Comedy,2019,102
+C0128,The French Dispatch,Comedy,2021,108
+C0129,Licorice Pizza,Comedy,2021,133
+C0130,Free Guy,Comedy,2021,115
+C0131,The Lost City,Comedy,2022,112
+C0132,"Good Luck to You, Leo Grande",Comedy,2022,97
+C0133,The Unbearable Weight of Massive Talent,Comedy,2022,107
+C0134,Jackass Forever,Comedy,2022,96
+C0135,Bros,Comedy,2022,115
+C0136,The Bob's Burgers Movie,Comedy,2022,102
+C0137,Fire Island,Comedy,2022,105
+C0138,Cha Cha Real Smooth,Comedy,2022,107
+C0139,Marcel the Shell with Shoes On,Comedy,2021,90
+C0140,The Bubble,Comedy,2022,126
+C0141,Senior Year,Comedy,2022,111
+C0142,The Man from Toronto,Comedy,2022,110
+C0143,Day Shift,Comedy,2022,113
+C0144,No Hard Feelings,Comedy,2023,103
+C0145,Bottoms,Comedy,2023,92
+C0146,Joy Ride,Comedy,2023,95
+C0147,Dumb Money,Comedy,2023,104
+C0148,You People,Comedy,2023,118
+C0149,Strays,Comedy,2023,93
+C0150,The Blackening,Comedy,2023,96
+C0151,Cocaine Bear,Comedy,2023,95
+C0152,Murder Mystery 2,Comedy,2023,89
+C0153,Quiz Lady,Comedy,2023,99
+C0154,The Out-Laws,Comedy,2023,95
+C0155,Your Place or Mine,Comedy,2023,109
+C0156,Somebody I Used to Know,Comedy,2023,106
+C0157,Shotgun Wedding,Comedy,2022,100
+C0158,The Honeymoon,Comedy,2022,87
+C0159,Marry Me,Comedy,2022,112
+C0160,The Valet,Comedy,2022,124
+C0161,Moonshot,Comedy,2022,104
+C0162,The People We Hate at the Wedding,Comedy,2022,99
+C0163,My Fake Boyfriend,Comedy,2022,97
+C0164,The Pentaverate,Comedy,2022,90
+C0165,The Noel Diary,Comedy,2022,99
+C0166,Falling for Christmas,Comedy,2022,93
+C0167,Holiday Harmony,Comedy,2022,90
+C0168,A Christmas Story Christmas,Comedy,2022,98
+C0169,Spirited,Comedy,2022,127
+C0170,Violent Night,Comedy,2022,112
+C0171,The Apology,Comedy,2022,95
+C0172,The Estate,Comedy,2022,96
+C0173,The In Between,Comedy,2022,116
+C0174,Look Both Ways,Comedy,2022,110
+C0175,Do Revenge,Comedy,2022,118
+C0176,Not Okay,Comedy,2022,100
+C0177,The Fallout,Comedy,2021,96
+C0178,Plan B,Comedy,2021,107
+C0179,The Starling,Comedy,2021,104
+C0180,The Mitchells vs. The Machines,Comedy,2021,114
+C0181,Yes Day,Comedy,2021,89
+C0182,Thunder Force,Comedy,2021,106
+C0183,The Woman in the Window,Comedy,2021,100
+C0184,Bliss,Comedy,2021,103
+C0185,The Lovebirds,Comedy,2020,87
+C0186,The Half of It,Comedy,2020,104
+C0187,Eurovision Song Contest: The Story of Fire Saga,Comedy,2020,123
+C0188,The King of Staten Island,Comedy,2020,136
+C0189,Onward,Comedy,2020,102
+C0190,Sonic the Hedgehog,Comedy,2020,99
+C0191,Bad Boys for Life,Comedy,2020,124
+C0192,Birds of Prey,Comedy,2020,109
+C0193,The Gentlemen,Comedy,2020,113
+C0194,The Hunt,Comedy,2020,90
+C0195,The Wrong Missy,Comedy,2020,90
+C0196,Spenser Confidential,Comedy,2020,111
+C0197,Hubie Halloween,Comedy,2020,102
+C0198,The Babysitter: Killer Queen,Comedy,2020,101
+C0199,The Sleepover,Comedy,2020,100
+C0200,Work It,Comedy,2020,93
+C0201,The Main Event,Comedy,2020,105
+C0202,The Witches,Comedy,2020,106
+C0203,Mad Max: Fury Road,Action,2015,120
+C0204,John Wick,Action,2014,101
+C0205,The Dark Knight,Action,2008,152
+C0206,Gladiator,Action,2000,155
+C0207,Die Hard,Action,1988,132
+C0208,Mission: Impossible - Fallout,Action,2018,147
+C0209,Skyfall,Action,2012,143
+C0210,Casino Royale,Action,2006,144
+C0211,The Bourne Identity,Action,2002,119
+C0212,Taken,Action,2008,93
+C0213,The Raid,Action,2011,101
+C0214,Edge of Tomorrow,Action,2014,113
+C0215,Inception,Sci-Fi,2010,148
+C0216,Interstellar,Sci-Fi,2014,169
+C0217,Blade Runner 2049,Sci-Fi,2017,164
+C0218,Ex Machina,Sci-Fi,2014,108
+C0219,Arrival,Sci-Fi,2016,116
+C0220,The Matrix,Sci-Fi,1999,136
+C0221,Minority Report,Sci-Fi,2002,145
+C0222,Looper,Sci-Fi,2012,119
+C0223,District 9,Sci-Fi,2009,112
+C0224,Her,Sci-Fi,2013,126
+C0225,Annihilation,Sci-Fi,2018,115
+C0226,Gravity,Sci-Fi,2013,91
+C0227,Dune,Sci-Fi,2021,155
+C0228,The Matrix Resurrections,Sci-Fi,2021,148
+C0229,The Adam Project,Sci-Fi,2022,106
+C0230,Nope,Sci-Fi,2022,135
+C0231,After Yang,Sci-Fi,2021,96
+C0232,The Midnight Sky,Sci-Fi,2020,118
+C0233,Tenet,Sci-Fi,2020,150
+C0234,Ad Astra,Sci-Fi,2019,124
+C0235,High Life,Sci-Fi,2018,113
+C0236,Aniara,Sci-Fi,2018,106
+C0237,Prospect,Sci-Fi,2018,97
+C0238,The Wandering Earth,Sci-Fi,2019,125
+C0239,The Platform,Sci-Fi,2019,94
+C0240,Color Out of Space,Sci-Fi,2019,111
+C0241,I Am Mother,Sci-Fi,2019,113
+C0242,The Vast of Night,Sci-Fi,2019,89
+C0243,What Happened to Monday,Sci-Fi,2017,123
+C0244,Synchronic,Sci-Fi,2019,102
+C0245,The Call,Sci-Fi,2020,112
+C0246,Stowaway,Sci-Fi,2021,116
+C0247,Space Sweepers,Sci-Fi,2021,136
+C0248,The Colony,Sci-Fi,2021,104
+C0249,Swan Song,Sci-Fi,2021,112
+C0250,In the Shadow of the Moon,Sci-Fi,2019,115
+C0251,The Titan,Sci-Fi,2018,97
+C0252,The Cloverfield Paradox,Sci-Fi,2018,102
+C0253,Extinction,Sci-Fi,2018,95
+C0254,The Discovery,Sci-Fi,2017,102
+C0255,Passengers,Sci-Fi,2016,116
+C0256,The Martian,Sci-Fi,2015,144
+C0257,Snowpiercer,Sci-Fi,2013,126
+C0258,Elysium,Sci-Fi,2013,109
+C0259,Oblivion,Sci-Fi,2013,124
+C0260,After Earth,Sci-Fi,2013,100
+C0261,The Host,Sci-Fi,2013,125
+C0262,Cloud Atlas,Sci-Fi,2012,172
+C0263,Prometheus,Sci-Fi,2012,124
+C0264,The Avengers,Sci-Fi,2012,143
+C0265,The Hunger Games,Sci-Fi,2012,142
+C0266,John Carter,Sci-Fi,2012,132
+C0267,Source Code,Sci-Fi,2011,93
+C0268,Limitless,Sci-Fi,2011,105
+C0269,Super 8,Sci-Fi,2011,112
+C0270,Attack the Block,Sci-Fi,2011,88
+C0271,The Adjustment Bureau,Sci-Fi,2011,106
+C0272,Another Earth,Sci-Fi,2011,92
+C0273,Melancholia,Sci-Fi,2011,135
+C0274,The Tree of Life,Sci-Fi,2011,139
+C0275,Hugo,Sci-Fi,2011,126
+C0276,In Time,Sci-Fi,2011,109
+C0277,Real Steel,Sci-Fi,2011,127
+C0278,The Iron Giant,Sci-Fi,1999,86
+C0279,Gattaca,Sci-Fi,1997,106
+C0280,The Fifth Element,Sci-Fi,1997,126
+C0281,Starship Troopers,Sci-Fi,1997,129
+C0282,Contact,Sci-Fi,1997,150
+C0283,The Arrival,Sci-Fi,1996,115
+C0284,Twelve Monkeys,Sci-Fi,1995,129
+C0285,Stargate,Sci-Fi,1994,121
+C0286,The Lawnmower Man,Sci-Fi,1992,108
+C0287,Free Solo,Documentary,2018,100
+C0288,Blackfish,Documentary,2013,83
+C0289,Icarus,Documentary,2017,121
+C0290,13th,Documentary,2016,100
+C0291,The Social Dilemma,Documentary,2020,94
+C0292,Senna,Documentary,2010,106
+C0293,March of the Penguins,Documentary,2005,80
+C0294,Man on Wire,Documentary,2008,94
+C0295,Amy,Documentary,2015,128
+C0296,Searching for Sugar Man,Documentary,2012,86
+C0297,Citizenfour,Documentary,2014,114
+C0298,Won't You Be My Neighbor?,Documentary,2018,94
+C0299,RBG,Documentary,2018,98
+C0300,Three Identical Strangers,Documentary,2018,96
+C0301,Apollo 11,Documentary,2019,93
+C0302,The Cave,Documentary,2019,107
+C0303,For Sama,Documentary,2019,100
+C0304,American Factory,Documentary,2019,110
+C0305,The Great Hack,Documentary,2019,114
+C0306,Crip Camp,Documentary,2020,106
+C0307,Boys State,Documentary,2020,109
+C0308,Time,Documentary,2020,81
+C0309,The Truffle Hunters,Documentary,2020,84
+C0310,Collective,Documentary,2020,109
+C0311,The Mole Agent,Documentary,2020,84
+C0312,My Octopus Teacher,Documentary,2020,85
+C0313,Dick Johnson Is Dead,Documentary,2020,89
+C0314,All In: The Fight for Democracy,Documentary,2020,102
+C0315,The Painter and the Thief,Documentary,2020,102
+C0316,Summer of Soul,Documentary,2021,118
+C0317,The Rescue,Documentary,2021,107
+C0318,Attica,Documentary,2021,118
+C0319,The First Wave,Documentary,2021,93
+C0320,Procession,Documentary,2021,116
+C0321,Ascension,Documentary,2021,97
+C0322,The Velvet Underground,Documentary,2021,110
+C0323,Roadrunner: A Film About Anthony Bourdain,Documentary,2021,118
+C0324,The Beatles: Get Back,Documentary,2021,468
+C0325,Fire of Love,Documentary,2022,93
+C0326,All the Beauty and the Bloodshed,Documentary,2022,117
+C0327,Navalny,Documentary,2022,98
+C0328,Moonage Daydream,Documentary,2022,140
+C0329,Good Night Oppy,Documentary,2022,105
+C0330,"Pamela, a love story",Documentary,2023,112
+C0331,The Janes,Documentary,2022,101
+C0332,Last Flight Home,Documentary,2022,101
+C0333,Retrograde,Documentary,2022,92
+C0334,All That Breathes,Documentary,2022,97
+C0335,The Territory,Documentary,2022,83
+C0336,Sr.,Documentary,2022,94
+C0337,Bobi Wine: The People's President,Documentary,2022,119
+C0338,The Tinder Swindler,Documentary,2022,114
+C0339,Our Father,Documentary,2022,97
+C0340,Bad Vegan,Documentary,2022,99
+C0341,The Mystery of Marilyn Monroe: The Unheard Tapes,Documentary,2022,101
+C0342,Keep Sweet: Pray and Obey,Documentary,2022,93
+C0343,Trainwreck: Woodstock '99,Documentary,2022,98
+C0344,The Volcano: Rescue from Whakaari,Documentary,2022,98
+C0345,The Hatchet Wielding Hitchhiker,Documentary,2023,85
+C0346,The Deepest Breath,Documentary,2023,108
+C0347,Still: A Michael J. Fox Movie,Documentary,2023,95
+C0348,Pretty Baby: Brooke Shields,Documentary,2023,100
+C0349,The 1619 Project,Documentary,2023,96
+C0350,Judy Blume Forever,Documentary,2023,97
+C0351,The Last of Us,Documentary,2023,85
+C0352,Arnold,Documentary,2023,98
+C0353,Beckham,Documentary,2023,92
+C0354,Escaping Twin Flames,Documentary,2023,94
+C0355,Love Has Won: The Cult of Mother God,Documentary,2023,96
+C0356,The Romantics,Documentary,2023,98
+C0357,Waco: American Apocalypse,Documentary,2023,102
+C0358,MH370: The Plane That Disappeared,Documentary,2023,89
+C0359,Missing: The Lucie Blackman Case,Documentary,2023,93
+C0360,Take Care of Maya,Documentary,2023,103
+C0361,The Pope's Exorcist,Documentary,2023,103
+C0362,The Night Agent,Documentary,2023,97
+C0363,American Symphony,Documentary,2023,104
+C0364,The Eternal Memory,Documentary,2023,85
+C0365,20 Days in Mariupol,Documentary,2023,94
+C0366,Beyond Utopia,Documentary,2023,123
+C0367,The Disappearance of Shere Hite,Documentary,2023,102
+C0368,Going to Mars: The Nikki Giovanni Project,Documentary,2023,101
+C0369,Stamped from the Beginning,Documentary,2023,91
+C0370,The Taste of Things,Documentary,2023,134
+C0371,Anselm,Documentary,2023,93
+C0372,In the Rearview,Documentary,2023,85
+C0373,The Mother of All Lies,Documentary,2023,96
+C0374,Smoke Sauna Sisterhood,Documentary,2023,89
+C0375,The Pigeon Tunnel,Documentary,2023,92
+C0376,The Mission,Documentary,2023,100
+C0377,Milisuthando,Documentary,2023,137
+C0378,The Tuba Thieves,Documentary,2023,88
+C0379,Kokomo City,Documentary,2023,73
+C0380,It's Only Life After All,Documentary,2023,123
+C0381,The Stroll,Documentary,2023,84
+C0382,Toy Story,Kids,1995,81
+C0383,Frozen,Kids,2013,102
+C0384,Moana,Kids,2016,107
+C0385,Finding Nemo,Kids,2003,100
+C0386,The Lion King,Kids,1994,88
+C0387,Shrek,Kids,2001,90
+C0388,Coco,Kids,2017,105
+C0389,Inside Out,Kids,2015,95
+C0390,Zootopia,Kids,2016,108
+C0391,Despicable Me,Kids,2010,95
+C0392,Ratatouille,Kids,2007,111
+C0393,Up,Kids,2009,96
+C0394,The Super Mario Bros. Movie,Kids,2023,92
+C0395,Elemental,Kids,2023,102
+C0396,Spider-Man: Across the Spider-Verse,Kids,2023,140
+C0397,Puss in Boots: The Last Wish,Kids,2022,102
+C0398,Turning Red,Kids,2022,100
+C0399,Encanto,Kids,2021,102
+C0400,Luca,Kids,2021,95
+C0401,Raya and the Last Dragon,Kids,2021,107
+C0402,Soul,Kids,2020,100
+C0403,Frozen II,Kids,2019,103
+C0404,The Lego Movie 2: The Second Part,Kids,2019,107
+C0405,How to Train Your Dragon: The Hidden World,Kids,2019,104
+C0406,Spies in Disguise,Kids,2019,102
+C0407,Abominable,Kids,2019,97
+C0408,The Angry Birds Movie 2,Kids,2019,97
+C0409,The Secret Life of Pets 2,Kids,2019,86
+C0410,Dora and the Lost City of Gold,Kids,2019,102
+C0411,Playmobil: The Movie,Kids,2019,110
+C0412,UglyDolls,Kids,2019,87
+C0413,The Queen's Corgi,Kids,2019,85
+C0414,Wonder Park,Kids,2019,85
+C0415,A Dog's Way Home,Kids,2019,96
+C0416,The Kid Who Would Be King,Kids,2019,120
+C0417,Missing Link,Kids,2019,94
+C0418,The Addams Family,Kids,2019,86
+C0419,Arctic Dogs,Kids,2019,93
+C0420,The Call of the Wild,Kids,2020,100
+C0421,Dolittle,Kids,2020,101
+C0422,Scoob!,Kids,2020,94
+C0423,The One and Only Ivan,Kids,2020,95
+C0424,Over the Moon,Kids,2020,95
+C0425,"Ruby Gillman, Teenage Kraken",Kids,2023,91
+C0426,The Willoughbys,Kids,2020,92
+C0427,Trolls World Tour,Kids,2020,91
+C0428,Phineas and Ferb the Movie: Candace Against the Universe,Kids,2020,85
+C0429,We Can Be Heroes,Kids,2020,100
+C0430,The Croods: A New Age,Kids,2020,95
+C0431,Rumble,Kids,2021,95
+C0432,Vivo,Kids,2021,95
+C0433,The Boss Baby: Family Business,Kids,2021,107
+C0434,Space Jam: A New Legacy,Kids,2021,115
+C0435,Tom & Jerry,Kids,2021,101
+C0436,Peter Rabbit 2: The Runaway,Kids,2021,93
+C0437,Clifford the Big Red Dog,Kids,2021,97
+C0438,Sing 2,Kids,2021,110
+C0439,The Bad Guys,Kids,2022,100
+C0440,DC League of Super-Pets,Kids,2022,105
+C0441,Strange World,Kids,2022,102
+C0442,Luck,Kids,2022,105
+C0443,Marmaduke,Kids,2022,89
+C0444,The Sea Beast,Kids,2022,115
+C0445,My Father's Dragon,Kids,2022,99
+C0446,Wendell & Wild,Kids,2022,105
+C0447,Guillermo del Toro's Pinocchio,Kids,2022,117
+C0448,Mummies,Kids,2023,88
+C0449,The Magician's Elephant,Kids,2023,99
+C0450,Nimona,Kids,2023,101
+C0451,Chicken Run: Dawn of the Nugget,Kids,2023,98
+C0452,Migration,Kids,2023,83
+C0453,The Canterville Ghost,Kids,2023,90
+C0454,The Amazing Maurice,Kids,2022,93
+C0455,Orion and the Dark,Kids,2024,93
+C0456,The Tiger's Apprentice,Kids,2024,99
+C0457,Kung Fu Panda 4,Kids,2024,94
+C0458,IF,Kids,2024,104
+C0459,The Garfield Movie,Kids,2024,101
+C0460,"Cry, the Beloved Country",Drama,1995,106
+C0461,Inside Out 2,Kids,2024,96
+C0462,Despicable Me 4,Kids,2024,94
+C0463,Moana 2,Kids,2024,100
+C0464,Mufasa: The Lion King,Kids,2024,98
+C0465,Sonic the Hedgehog 3,Kids,2024,102
+C0466,The Little Mermaid,Kids,2023,135
+C0467,Wonka,Kids,2023,116
+C0468,Aquaman and the Lost Kingdom,Kids,2023,124
+C0469,The Marvels,Kids,2023,105
+C0470,Wish,Kids,2023,95
+C0471,Trolls Band Together,Kids,2023,92
+C0472,PAW Patrol: The Mighty Movie,Kids,2023,88
+C0473,Teenage Mutant Ninja Turtles: Mutant Mayhem,Kids,2023,99
+C0474,Moolaadé,Drama,2004,124
+C0475,The Nun II,Horror,2023,110
+C0476,Five Nights at Freddy's,Horror,2023,110
+C0477,Talk to Me,Horror,2022,95
+C0478,M3GAN,Horror,2022,102
+C0479,Smile,Horror,2022,115
+C0480,Hyènes,Drama,1992,110
+C0481,The Boy Who Harnessed the Wind,Drama,2019,113
+C0482,Félicité,Drama,2017,123
+C0483,Rafiki,Drama,2018,83
+C0484,Lionheart,Drama,2018,95
+C0485,The Burial of Kojo,Drama,2018,80
+C0486,Atlantics,Drama,2019,106
+C0487,Tsotsi,Drama,2005,94
+C0488,Yesterday,Drama,2004,90
+C0489,Sarafina!,Musical,1992,98
+C0490,Chappie,Sci-Fi,2015,120
+C0491,Mandela: Long Walk to Freedom,Biography,2013,141
+C0492,Invictus,Drama,2009,134
+C0493,Hotel Rwanda,Drama,2004,121
+C0494,Sometimes in April,Drama,2005,140
+C0495,Shake Hands with the Devil,Drama,2007,112
+C0496,The Last King of Scotland,Drama,2006,121
+C0497,The Constant Gardener,Drama,2005,129
+C0498,Blood Diamond,Drama,2006,143
+C0499,Beasts of No Nation,Drama,2015,137
+C0500,The First Grader,Drama,2010,103
+C0501,The Legend of Tarzan,Action,2016,110
+C0502,The Gods Must Be Crazy,Comedy,1980,109
+C0503,Queen of Katwe,Drama,2016,124
+C0504,A United Kingdom,Drama,2016,111
+C0505,The No. 1 Ladies' Detective Agency,Drama,2008,116
+C0506,Karmen Geï,Musical,2001,86
+C0507,Timbuktu,Drama,2014,97
+C0508,Heremakono,Drama,2002,96
+C0509,Bamako,Drama,2006,117
+C0510,Black Girl,Drama,1966,65
+C0511,Xala,Comedy,1975,123
+C0512,The Great Escape,Drama,2017,105
+C0513,"Black Africa, White Marble",Documentary,2018,70
+C0514,Viva Riva!,Thriller,2010,98
+C0515,Nairobi Half Life,Drama,2012,96
+C0516,Supa Modo,Drama,2018,74
+C0517,Kati Kati,Drama,2016,74
+C0518,Stories of Our Lives,Drama,2014,60
+C0519,Veve,Drama,2014,90
+C0520,Something Necessary,Drama,2013,78
+C0521,Soul Boy,Drama,2010,60
+C0522,From a Whisper,Drama,2009,96
+C0523,Dunia,Drama,2005,112
+C0524,Daratt,Drama,2006,105
+C0525,Abouna,Drama,2002,84
+C0526,A Screaming Man,Drama,2010,92
+C0527,Grigris,Drama,2013,101
+C0528,"Lingui, the Sacred Bonds",Drama,2021,87
+C0529,The Pirogue,Drama,2012,87
+C0530,Tey,Drama,2012,86
+C0531,"Costa Brava, Lebanon",Drama,2021,109
+C0532,Mille Soleils,Drama,2013,45
+C0533,Fad'jal,Documentary,1979,107
+C0534,Clando,Drama,1996,98
+C0535,Aristotle's Plot,Comedy,1996,72
+C0536,Waiting for Happiness,Drama,2002,95
+C0537,The Night of Truth,Drama,2004,100
+C0538,Mossane,Drama,1996,105
+C0539,The Blue Eyes of Yonta,Drama,1992,90
+C0540,Mortu Nega,Drama,1988,85
+C0541,The Silences of the Palace,Drama,1994,124
+C0542,Bezness,Drama,1992,98
+C0543,The Season of Men,Drama,2000,124
+C0544,Satin Rouge,Drama,2002,100
+C0545,Making Of,Drama,2006,98
+C0546,The Man Who Mends Women,Documentary,2015,52
+C0547,Congo in Four Acts,Documentary,2010,76
+C0548,Kinshasa Kids,Musical,2012,84
+C0549,Stainless,Documentary,2014,73
+C0550,The African Doctor,Comedy,2016,94
+C0551,Martha and Niki,Documentary,2015,95
+C0552,The Pearl of Africa,Documentary,2016,85
+C0553,I Am Not a Witch,Drama,2017,93
+C0554,The Last Shelter,Drama,2021,94
+C0555,Farewell Amor,Drama,2020,96
+C0556,Eyimofe,Drama,2020,116
+C0557,The Gravedigger's Wife,Drama,2021,89
+C0558,Freda,Drama,2021,90
+C0559,You Will Die at Twenty,Drama,2019,103
+C0560,The Man Who Sold His Skin,Drama,2020,104
+C0561,Casablanca Beats,Drama,2021,102
+C0562,Memory Box,Drama,2021,102
+C0563,The Last Days of the Tragedy,Drama,2021,85
+C0564,The Sacred Defense,Drama,2021,92
+C0565,The White Castle,Drama,2021,98
+C0566,The Graffiti Artist,Drama,2021,87
+C0567,The Blind Poet,Drama,2021,95
+C0568,The Last Pharaoh,Drama,2021,110
+C0569,The Desert Rock,Drama,2021,96
+C0570,The Nile's Secret,Drama,2021,105
+C0571,The Sahara's Song,Drama,2021,92
+C0572,The Baobab Tree,Drama,2021,88
+C0573,The Golden Stool,Drama,2021,102
+C0574,The Drummers of Burundi,Documentary,2021,75
+C0575,The Marketplace,Drama,2021,94
+C0576,The Fisherman's Daughter,Drama,2021,89
+C0577,The Red Soil,Drama,2021,97
+C0578,The Mountain's Call,Drama,2021,103
+C0579,The Wind of Change,Drama,2021,91
+C0580,The Rainbow Children,Drama,2021,86
+C0581,The Sunbird,Drama,2021,99
+C0582,The Elephant's Trail,Drama,2021,104
+C0583,The Lion's Roar,Drama,2021,95
+C0584,The Desert Flower,Drama,2021,88
+C0585,The River's Edge,Drama,2021,93
+C0586,The Savannah's Secret,Drama,2021,101
+C0587,The Tribal Marks,Drama,2021,96
+C0588,The Ancestor's Voice,Drama,2021,107
+C0589,The Golden Baobab,Drama,2021,94
+C0590,The Sacred Forest,Drama,2021,98
+C0591,The Moon's Reflection,Drama,2021,90
+C0592,The Star Gazer,Drama,2021,85
+C0593,The Rainmaker,Drama,2021,102
+C0594,Seven Doors,Thriller,2024,107
+C0595,The Fire Dancer,Drama,2021,89
+C0596,The Session,Thriller,2021,110
+C0597,The Wisdom Keeper,Drama,2021,105
+C0598,Shadows,Thriller,2021,105
+C0599,The Drum Circle,Drama,2021,87
+C0600,The One for Sarah,Thriller,2021,115
+C0601,The Story Weaver,Drama,2021,96
+C0602,The Clay Artist,Drama,2021,92
+C0603,Dinner at My Place,Thriller,2021,102
+C0604,The Bead Maker,Drama,2021,88
+C0605,The Mask Carver,Drama,2021,94
+C0606,The Rhythm of Life,Drama,2021,99
+C0607,The Harvest Moon,Drama,2021,91
+C0608,The Stranger I Know,Thriller,2022,108
+C0609,All Too Familiar,Thriller,2022,112
+C0610,The Golden Harvest,Drama,2021,103
+C0611,The Sacred River,Drama,2021,97
+C0612,Unintentional,Thriller,2022,105
+C0613,The Desert's Heart,Drama,2021,95
+C0614,The Way Things Happen,Thriller,2022,110
+C0615,The Mountain's Echo,Drama,2021,101
+C0616,When Are We Getting Married?,Romance,2022,120
+C0617,The Lion's Heart,Drama,2021,98
+C0618,The Elephant's Memory,Drama,2021,104
+C0619,Finding Hubby,Romance,2022,115
+C0620,The Rainbow's End,Drama,2021,93
+C0621,The Rishantes,Thriller,2022,120
+C0622,The Sun's Daughter,Drama,2021,89
+C0623,The Moon's Child,Drama,2021,96
+C0624,The Reconnect,Thriller,2022,114
+C0625,The Star's Light,Drama,2021,87
+C0626,Where is the Money?,Comedy,2022,108
+C0627,The Invitation,Thriller,2022,112
+C0628,The Wind's Whisper,Drama,2021,94
+C0629,The Fire's Warmth,Drama,2021,90
+C0630,The Guest,Thriller,2022,105
+C0631,The Visit,Thriller,2022,109
+C0632,The Water's Flow,Drama,2021,102
+C0633,The Earth's Song,Drama,2021,99
+C0634,The Hosts,Thriller,2022,111
+C0635,The Neighbors,Thriller,2022,107
+C0636,The Sky's Limit,Drama,2021,95
+C0637,The Ocean's Call,Drama,2021,107
+C0638,The Tenants,Thriller,2022,113
+C0639,The Forest's Secret,Drama,2021,101
+C0640,The Roommates,Thriller,2022,116
+C0641,The Desert's Song,Drama,2021,96
+C0642,The Flatmates,Thriller,2022,104
+C0643,The Mountain's Peak,Drama,2021,103
+C0644,The Perfect Murder,Thriller,2023,122
+C0645,The Valley's Peace,Drama,2021,92
+C0646,The River's Flow,Drama,2021,98
+C0647,The Lake's Serenity,Drama,2021,94
+C0648,Living in Bondage: Breaking Free,Drama,2019,120
+C0649,The Midnight Call,Thriller,2023,112
+C0650,The Silent Number,Thriller,2023,109
+C0651,The Wedding Party,Romance,2016,115
+C0652,The Unknown Caller,Thriller,2023,107
+C0653,The Wedding Party 2,Romance,2017,123
+C0654,King of Boys,Thriller,2018,180
+C0655,The Voicemail,Thriller,2023,105
+C0656,King of Boys: The Return of the King,Thriller,2021,150
+C0657,The Text Message,Thriller,2023,110
+C0658,Omo Ghetto: The Saga,Comedy,2020,139
+C0659,The Email,Thriller,2023,113
+C0660,Chief Daddy,Comedy,2018,107
+C0661,The Social Media Murders,Thriller,2023,125
+C0662,Chief Daddy 2: Going for Broke,Comedy,2022,107
+C0663,The Online Date,Thriller,2023,108
+C0664,The Bling Lagosians,Drama,2019,107
+C0665,The Cyber Stalker,Thriller,2023,119
+C0666,Your Excellency,Comedy,2019,107
+C0667,Sugar Rush,Comedy,2019,114
+C0668,The Virtual Killer,Thriller,2023,121
+C0669,The Algorithm,Thriller,2023,124
+C0670,The Set Up,Thriller,2019,104
+C0671,4th Republic,Thriller,2019,107
+C0672,The Ghost and the House of Truth,Drama,2019,107
+C0673,The Password,Thriller,2023,106
+C0674,Citation,Drama,2020,138
+C0675,The Hack,Thriller,2023,128
+C0676,Namaste Wahala,Romance,2020,106
+C0677,The Breach,Thriller,2023,115
+C0678,The Milkmaid,Drama,2020,137
+C0679,The System,Thriller,2023,132
+C0680,La Femme Anjola,Thriller,2021,137
+C0681,Swallow,Drama,2021,94
+C0682,Prophetess,Action,2021,121
+C0683,Day of Destiny,Drama,2021,120
+C0684,Black Mail,Thriller,2021,120
+C0685,Lockdown,Comedy,2021,118
+C0686,Fine Wine,Drama,2021,110
+C0687,Love Castle,Romance,2021,120
+C0688,Superstar,Musical,2021,120
+C0689,The Razz Guy,Comedy,2021,110
+C0690,Kambili: The Whole 30 Yards,Romance,2020,106
+C0691,The Therapist,Drama,2021,100
+C0692,Finding Me,Drama,2021,95
+C0693,Bad Comments,Thriller,2021,110
+C0694,Mokalik,Drama,2019,94
+C0695,The Millions,Drama,2021,120
+C0696,Quam's Money,Thriller,2020,119
+C0697,Oloture,Drama,2019,106
+C0698,The Figurine,Thriller,2009,124
+C0699,Ije: The Journey,Drama,2010,107
+C0700,Half of a Yellow Sun,Drama,2013,111
+C0701,1-Oct,Thriller,2014,145
+C0702,76,Drama,2016,131
+C0703,93 Days,Drama,2016,118
+C0704,The Arbitration,Drama,2016,120
+C0705,Isoken,Drama,2017,103
+C0706,The Bridge,Drama,2017,102
+C0707,Hakkunde,Drama,2017,85
+C0708,Payday,Drama,2018,106
+C0709,Sylvia,Drama,2018,120
+C0710,Heaven's Hell,Drama,2019,120
+C0711,The Smart Money Woman,Drama,2021,120
+C0712,RattleSnake: The Ahanna Story,Drama,2020,138
+C0713,The Wait,Drama,2021,120
+C0714,Blood Sisters,Thriller,2022,180
+C0715,Anikulapo,Drama,2022,140
+C0716,Shanty Town,Thriller,2023,180
+C0717,Battle on Buka Street,Comedy,2022,142
+C0718,Brotherhood,Action,2022,138
+C0719,Ijakumo: The Born Again Stripper,Drama,2022,130
+C0720,The Plan,Drama,2022,120
+C0721,Passport,Drama,2022,120
+C0722,Diiche,Drama,2022,120
+C0723,Crimes and Confessions,Drama,2022,120
+C0724,The Griot,Drama,2022,120
+C0725,Love in a Pandemic,Romance,2022,120
+C0726,The Wildflower,Drama,2022,120
+C0727,The Therapist: The Last Session,Drama,2022,120
+C0728,The Stars,Romance,2022,120
+C0729,The Trade,Drama,2022,120
+C0730,The Return of the King,Drama,2022,120
+C0731,The Last Days,Drama,2022,120
+C0732,The Choice,Drama,2022,120
+C0733,The Promise,Drama,2022,120
+C0734,The Secret,Drama,2022,120
+C0735,The Betrayal,Drama,2022,120
+C0736,The Reunion,Drama,2022,120
+C0737,The Legacy,Drama,2022,120
+C0738,The Inheritance,Drama,2022,120
+C0739,The Will,Drama,2022,120
+C0740,The Testament,Drama,2022,120
+C0741,The Covenant,Drama,2022,120
+C0742,Gangs of Lagos,Action,2023,132
+C0743,The Black Book,Thriller,2023,124
+C0744,Jagun Jagun,Action,2023,134
+C0745,Orisa,Action,2023,120
+C0746,A Tribe Called Judah,Comedy,2023,134
+C0747,Mami Wata,Drama,2023,107
+C0748,Breath of Life,Drama,2023,125
+C0749,The House of Secrets,Drama,2023,120
+C0750,The House of Ga'a,Drama,2023,120
+C0751,Over the Bridge,Drama,2023,120
+C0752,The Perfect Arrangement,Romance,2023,120
+C0753,The Last Man Standing,Action,2023,120
+C0754,The Price of Fame,Drama,2023,120
+C0755,The Art of Love,Romance,2023,120
+C0756,The Longest Night,Thriller,2023,120
+C0757,The Silent Witness,Drama,2023,120
+C0758,The Unforgivable,Drama,2023,120
+C0759,The Redemption,Drama,2023,120
+C0760,The Awakening,Drama,2023,120
+C0761,The Final Chapter,Drama,2023,120
