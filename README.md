@@ -263,7 +263,50 @@ The scheduling analysis also showed that multiple-batch operator-days had a **47
 🌐 [View GreenTech Production Downtime Analytics Case Study](https://greentech-production-downtime.bolt.host)
 
 ---
+## 5. 🎬 StreamWave Entertainment — Viewer Engagement & Retention Analytics
 
+![StreamWave Executive Overview Dashboard](StreamWave_Entertainment/screenshots/01_Executive_Overview.png)
+
+### Project Overview
+
+An end-to-end entertainment analytics project using SQL Server and Power BI to investigate viewing behaviour, content performance, audience demographics, subscription renewals and cancellations.
+
+The analysis covers **1,000 registered users, 60,000 viewing sessions, 761 catalogue titles and 9 genres watched**.
+
+### Key Performance Indicators
+
+| KPI | Result |
+|---|---:|
+| Registered Users | 1,000 |
+| Active Users | 856 |
+| Viewing Sessions | 60,000 |
+| Total Watch Hours | 100,307.55 |
+| Content Watched | 500 titles |
+| Catalogue Utilisation | 65.7% |
+| Session Completion Rate | 39.93% |
+| Subscription Renewal Rate | 85.60% |
+| Subscription Cancellation Rate | 14.40% |
+
+### Key Findings
+
+- **Drama** led viewing activity with **13,277 sessions** and **24,332.67 watch hours**.
+- **Comedy** achieved a **44.94% completion rate**, the highest among the major high-volume genres.
+- **261 catalogue titles** had no recorded viewing activity.
+- Renewed subscribers averaged **60.33 sessions**, compared with **58.43** for subscribers who cancelled. This association does not establish causation.
+- **144 subscribers cancelled**, representing **14.40%** of registered subscriptions.
+
+### Business Recommendations
+
+- Prioritise high-demand genres while investigating underutilised catalogue titles.
+- Improve content discovery, personalised recommendations and viewing completion.
+- Segment engagement and retention initiatives by subscription tier and audience characteristics.
+- Investigate cancellation drivers beyond viewing activity, including pricing, content availability and customer experience.
+
+### Tools & Technologies
+
+**SQL Server | T-SQL | Power BI | DAX | Power Query | Data Modelling | Data Visualisation | PowerPoint | Git/GitHub**
+
+---
 # 🐍 Additional Analytics Work
 
 ## Data Analysis with Python
@@ -322,6 +365,8 @@ I am particularly interested in opportunities involving:
 | 🏥 Horizon Health Network | Healthcare Operations | Bed demand, occupancy, capacity & workforce | SQL, Power BI, DAX |
 | 🏥 NorthBridge Health Services | Healthcare Administration | Tickets, SLA, backlog & service performance | SQL, Power BI, DAX |
 | 📡 Telecom Network Outage Analytics | Telecommunications | Outages, SLA, alarms, vendors & maintenance | SQL, Power BI, DAX |
+| 🏭 GreenTech Manufacturing | Manufacturing Operations | Production downtime, delays, root causes & scheduling | SQL Server, Power BI, DAX |
+| 🎬 StreamWave Entertainment | Entertainment & Streaming | Viewer engagement, content performance & subscriber retention | SQL Server, Power BI, DAX |
 | 🐍 Data Analysis with Python | General Analytics | Data cleaning, transformation & EDA | Python, Pandas |
 
 ---
@@ -376,12 +421,13 @@ data-analysis-projects/
 
 This portfolio demonstrates my progression through increasingly comprehensive end-to-end analytics projects across different business domains.
 
-The four flagship case studies are presented in the following sequence:
+The five flagship case studies are presented in the following sequence:
 
 **1. Horizon Health Network — Bed Demand & Workforce Analytics**  
 **2. NorthBridge Health Services — Ticket & SLA Optimisation**  
 **3. Telecom Network Outage & Reliability Analytics**  
 **4. GreenTech Manufacturing — Production Downtime Analytics**
+5. **StreamWave Entertainment — Viewer Engagement & Retention Analytics**
 
 Together, they demonstrate my ability to work across the complete analytics lifecycle:
 
