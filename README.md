@@ -265,7 +265,7 @@ The scheduling analysis also showed that multiple-batch operator-days had a **47
 ---
 ## 5. 🎬 StreamWave Entertainment — Viewer Engagement & Retention Analytics
 
-![StreamWave Executive Overview Dashboard](StreamWave_Entertainment/screenshots/01_Executive_Overview.png)
+![StreamWave Executive Overview Dashboard](StreamWave-Viewer-Engagement-Retention-Analytics/screenshots/01_Executive_Overview.png)
 
 ### Project Overview
 
