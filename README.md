@@ -399,6 +399,22 @@ data-analysis-projects/
 │   ├── sql/
 │   └── README.md
 │
+├── GreenTech_Production_Downtime_Analytics/
+│   ├── data/
+│   ├── powerbi/
+│   ├── presentation/
+│   ├── screenshots/
+│   ├── sql/
+│   └── README.md
+│
+├── StreamWave-Viewer-Engagement-Retention-Analytics/
+│   ├── data/
+│   ├── powerbi/
+│   ├── presentation/
+│   ├── screenshots/
+│   ├── sql/
+│   └── README.md
+│
 ├── DA_With_Python/
 │
 └── README.md
@@ -426,8 +442,8 @@ The five flagship case studies are presented in the following sequence:
 **1. Horizon Health Network — Bed Demand & Workforce Analytics**  
 **2. NorthBridge Health Services — Ticket & SLA Optimisation**  
 **3. Telecom Network Outage & Reliability Analytics**  
-**4. GreenTech Manufacturing — Production Downtime Analytics**
-5. **StreamWave Entertainment — Viewer Engagement & Retention Analytics**
+**4. GreenTech Manufacturing — Production Downtime Analytics**  
+**5. StreamWave Entertainment — Viewer Engagement & Retention Analytics**
 
 Together, they demonstrate my ability to work across the complete analytics lifecycle:
 
