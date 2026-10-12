@@ -302,15 +302,17 @@ The analysis covers **1,000 registered users, 60,000 viewing sessions, 761 catal
 - Segment engagement and retention initiatives by subscription tier and audience characteristics.
 - Investigate cancellation drivers beyond viewing activity, including pricing, content availability and customer experience.
 
-### Tools & Technologies
+### Tools & Technologies:
 
 **SQL Server | T-SQL | Power BI | DAX | Power Query | Data Modelling | Data Visualisation | PowerPoint | Git/GitHub**
+
 ---
 ### 🔗 Explore the Project
 
-📂 **[View Full StreamWave Project README.md](StreamWave-Viewer-Engagement-Retention-Analytics/README.md)**
+📂 **[View Full StreamWave Project README.md](StreamWave-Viewer-Engagement-Retention-Analytics/README.md)**  
 
 🌐 **Live Interactive Case Study:** [StreamWave Viewer Engagement & Retention Analytics](streamwave-viewer-analytics.bolt.host)
+
 ---
 ### 6. AdventureWorks — Sales, Product & Customer Performance Analytics
 
