@@ -398,6 +398,7 @@ I am particularly interested in opportunities involving:
 | 📡 Telecom Network Outage Analytics | Telecommunications | Outages, SLA, alarms, vendors & maintenance | SQL, Power BI, DAX |
 | 🏭 GreenTech Manufacturing | Manufacturing Operations | Production downtime, delays, root causes & scheduling | SQL Server, Power BI, DAX |
 | 🎬 StreamWave Entertainment | Entertainment & Streaming | Viewer engagement, content performance & subscriber retention | SQL Server, Power BI, DAX |
+| 📈 AdventureWorks Sales Analytics | Retail & Sales | Sales performance, product profitability, customer segmentation & returns | Power BI, Power Query, DAX |
 | 🐍 Data Analysis with Python | General Analytics | Data cleaning, transformation & EDA | Python, Pandas |
 
 ---
@@ -445,6 +446,13 @@ data-analysis-projects/
 │   ├── screenshots/
 │   ├── sql/
 │   └── README.md
+|
+├── AdventureWorks_Performance_Analytics/
+│   ├── data/
+│   ├── powerbi/
+│   ├── presentation/
+│   ├── screenshots/
+│   └── README.md
 │
 ├── DA_With_Python/
 │
@@ -468,13 +476,14 @@ data-analysis-projects/
 
 This portfolio demonstrates my progression through increasingly comprehensive end-to-end analytics projects across different business domains.
 
-The five flagship case studies are presented in the following sequence:
+The six flagship case studies are presented in the following sequence:
 
 **1. Horizon Health Network — Bed Demand & Workforce Analytics**  
 **2. NorthBridge Health Services — Ticket & SLA Optimisation**  
 **3. Telecom Network Outage & Reliability Analytics**  
 **4. GreenTech Manufacturing — Production Downtime Analytics**  
-**5. StreamWave Entertainment — Viewer Engagement & Retention Analytics**
+**5. StreamWave Entertainment — Viewer Engagement & Retention Analytics**  
+**6. AdventureWorks — Sales, Product & Customer Performance**  
 
 Together, they demonstrate my ability to work across the complete analytics lifecycle:
 
