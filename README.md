@@ -307,6 +307,37 @@ The analysis covers **1,000 registered users, 60,000 viewing sessions, 761 catal
 **SQL Server | T-SQL | Power BI | DAX | Power Query | Data Modelling | Data Visualisation | PowerPoint | Git/GitHub**
 
 ---
+### 6. AdventureWorks — Sales, Product & Customer Performance Analytics
+
+![AdventureWorks Executive Dashboard](AdventureWorks_Performance_Analytics/screenshots/01_Exec_Dashboard.png)
+
+**Tools:** Power BI, Power Query, DAX, Data Modelling
+
+**Project Overview:**  
+Analysed AdventureWorks sales, product, customer and returns data from 2020–2022 to evaluate revenue growth, profitability, purchasing behaviour, product performance and geographical sales trends.
+
+**Key KPIs:**
+- Total Revenue: **$24.9M**
+- Total Profit: **$10.5M**
+- Total Orders: **25.2K**
+- Return Rate: **2.2%**
+- Unique Customers: **17.4K**
+
+**Key Insights:**
+- Identified strong revenue growth alongside changes in customer spending patterns.
+- Highlighted above-average return rates for Sport-100 helmets.
+- Analysed product profitability, customer segmentation and geographical sales distribution.
+- Developed a product pricing what-if analysis to support scenario planning.
+
+**Project Deliverables:**
+- Interactive Power BI report
+- Four analytical dashboard pages
+- PowerPoint business presentation
+- Business insights and recommendations
+
+[**View Complete AdventureWorks Case Study**](AdventureWorks_Performance_Analytics/README.md)
+
+---
 # 🐍 Additional Analytics Work
 
 ## Data Analysis with Python
