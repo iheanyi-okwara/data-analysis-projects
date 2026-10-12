@@ -305,7 +305,12 @@ The analysis covers **1,000 registered users, 60,000 viewing sessions, 761 catal
 ### Tools & Technologies
 
 **SQL Server | T-SQL | Power BI | DAX | Power Query | Data Modelling | Data Visualisation | PowerPoint | Git/GitHub**
+---
+### 🔗 Explore the Project
 
+📂 **[View Full StreamWave Project README.md](StreamWave-Viewer-Engagement-Retention-Analytics/README.md)**
+
+🌐 **Live Interactive Case Study:** [StreamWave Viewer Engagement & Retention Analytics](streamwave-viewer-analytics.bolt.host)
 ---
 ### 6. AdventureWorks — Sales, Product & Customer Performance Analytics
 
@@ -335,7 +340,11 @@ Analysed AdventureWorks sales, product, customer and returns data from 2020–20
 - PowerPoint business presentation
 - Business insights and recommendations
 
-[**View Complete AdventureWorks Case Study**](AdventureWorks_Performance_Analytics/README.md)
+### 🔗 Explore the Project
+
+📂 **[View Full AdventureWorks Project README.md](AdventureWorks_Performance_Analytics/README.md)**
+
+🌐 **Live Interactive Case Study:** [AdventureWorks Performance Analytics](https://adventureworks-analytics.bolt.host)
 
 ---
 # 🐍 Additional Analytics Work
